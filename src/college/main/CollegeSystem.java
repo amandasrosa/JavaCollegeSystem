@@ -42,6 +42,7 @@ public class CollegeSystem {
 			}
 		} catch(IllegalStateException | NoSuchElementException e) {
 			System.out.println("System.in was closed; exiting");
+			System.exit(0);
 		}
 		return line;
 	}
