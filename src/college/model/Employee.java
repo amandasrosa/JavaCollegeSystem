@@ -4,11 +4,11 @@ import java.util.Date;
 
 public class Employee {
 	private int employeeId;
-    private String name;
-    private Function mainFunction;
-    private Date startDate;
-    private Date endDate;
-    
+	private String name;
+	private Function mainFunction;
+	private Date startDate;
+	private Date endDate;
+
 	public int getEmployeeId() {
 		return employeeId;
 	}
