@@ -4,14 +4,11 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
-import com.google.gson.Gson;
-
-import college.model.Country;
 import college.model.GradeAux;
 
 public class FileHandler {
 	
-	public GradeAux loadUserFromJSONGson(String jsonString) {
+	/*public GradeAux bringGradeAux (String jsonString) {
 		Gson gson = new Gson();
 		   
 		  try {
@@ -40,5 +37,5 @@ public class FileHandler {
 		  } catch (IOException e) {
 		   e.printStackTrace();
 		  }
-	}
+	}*/
 }

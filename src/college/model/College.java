@@ -14,7 +14,14 @@ public class College {
 	private static List<Schedule> schedules;
 	
 	public void createCollege () {
-		
+		createEmployees();
+		createDepartments();
+		createDepartmentEmployees();
+		createPrograms();
+		createCourses();
+		createStudents();
+		createStudentClasses();
+		createSchedules();
 	}
 	public void createEmployees () {
 		
