@@ -5,6 +5,7 @@ public class GradeAux {
 	private String letter;
 	private int pointsStart;
 	private int pointsEnd;
+	
 	public int getGradeAuxId() {
 		return gradeAuxId;
 	}
