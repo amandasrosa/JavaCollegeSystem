@@ -6,16 +6,16 @@ import college.controller.FileHandler;
 
 public class College {
 	private static FileHandler fileHandler = new FileHandler();;
-	private static List<Employee> employees;
-	private static List<Department> departments;
-	private static List<DepartmentEmployee> departmentEmployees;
-	private static List<Program> programs;
-	private static List<Course> courses;
-	private static List<Classe> classes;
-	private static List<Student> students;
-	private static List<StudentClass> studentClasses;
-	private static List<Schedule> schedules;
-	private static List<GradeAux> grades;
+	private static List<Employee> employees = null;
+	private static List<Department> departments = null;
+	private static List<DepartmentEmployee> departmentEmployees = null;
+	private static List<Program> programs = null;
+	private static List<Course> courses = null;
+	private static List<Classe> classes = null;
+	private static List<Student> students = null;
+	private static List<StudentClass> studentClasses = null;
+	private static List<Schedule> schedules = null;
+	private static List<GradeAux> grades = null;
 
 	public void createCollege () {
 		createEmployees();
