@@ -5,11 +5,13 @@ import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+import college.model.College;
 import college.model.Employee;
+import college.model.Function;
 
 public class CollegeSystem {
 	private static Scanner scanner;
-	Employee instructor;
+	private static Employee instructor;
 	
 	public static void main(String[] args) {
 		scanner = new Scanner(System.in);
@@ -45,6 +47,9 @@ public class CollegeSystem {
 	
 	private static void loadFiles() {
 		System.out.println("\nLoading data files...");
+		College college = new College();
+		college.createCollege();
+		System.out.println("\nFiles loaded. Press <ENTER> to return to the main menu:");
 		waitEnter();
 	}
 	
@@ -60,12 +65,31 @@ public class CollegeSystem {
 	
 	private static void login() {
 		while (true) {
-			System.out.println("\nType the instructor's employee ID or 0 to return to main menu:\n");
-			String id = readInput();
-			if (id.equals("0")) {
+			System.out.println("\nType the instructor's employee ID or 0 to return to the main menu:\n");
+			String option = readInput();
+			if (option.equals("0")) {
 				return;
 			}
-			// TODO: search the id and retrieve the instructor
+			if (College.getEmployees() == null) {
+				System.out.println("There is no data in the system. Please load the files first.");
+				System.out.println("Press <ENTER> to return to the main menu:");
+				waitEnter();
+				return;
+			}
+			int id = 0;
+			try {
+				id = Integer.parseInt(option);
+			} catch (NumberFormatException e) {
+				System.out.println("Invalid number. Try again.");
+				continue;
+			}
+			for (Employee e: College.getEmployees()) {
+				if (e.getEmployeeId() == id && (e.getMainFunction() == Function.Instructor ||
+						e.getMainFunction() == Function.Head)) {
+					instructor = e;
+					break;
+				}
+			}
 			instructorMenu();
 		}
 	}
