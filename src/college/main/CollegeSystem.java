@@ -19,7 +19,7 @@ public class CollegeSystem {
 			System.out.println("1: Load Files");
 			System.out.println("2: Save Data in Files");
 			System.out.println("3: Generate reports");
-			System.out.println("4: Instructor menu");
+			System.out.println("4: Instructor login");
 			System.out.println("0: Exit");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2", "3", "4");
 			switch (option) {
