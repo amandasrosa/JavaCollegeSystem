@@ -7,7 +7,7 @@
 "name":"Elijah Stancill",
 "mainFunction":"Head",
 "startDate":"2015-08-01",
-"endDate":"2017-11-28"}
+"endDate":null}
 ,
 "department":
 {"departmentId":1,
@@ -17,7 +17,7 @@
 "name":"Wilbert Kyte",
 "mainFunction":"Head",
 "startDate":"2015-08-01",
-"endDate":"2017-11-28"}
+"endDate":null}
 }
 }
 ,
@@ -29,7 +29,7 @@
 "name":"Chance Penfield",
 "mainFunction":"Head",
 "startDate":"2015-08-01",
-"endDate":"2017-11-28"}
+"endDate":null}
 ,
 "department":
 {"departmentId":2,
@@ -39,7 +39,7 @@
 "name":"Cleveland Allaire",
 "mainFunction":"Head",
 "startDate":"2015-08-01",
-"endDate":"2017-11-28"}
+"endDate":null}
 }
 }
 ]}
