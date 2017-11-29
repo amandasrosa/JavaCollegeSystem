@@ -1,0 +1,1001 @@
+{"departmentEmployee": [
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":1,
+"name":"Luis Parfait",
+"mainFunction":"Staff",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":2,
+"name":"Keven Morgan",
+"mainFunction":"Staff",
+"startDate":"2015-08-01",
+"endDate":"2016-06-01"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":3,
+"name":"Cameron Vanhoy",
+"mainFunction":"Staff",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":6,
+"name":"Tracey Dunne",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":7,
+"name":"Hilton Stanwood",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":8,
+"name":"Arturo Manzanares",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":9,
+"name":"Charles Boise",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":10,
+"name":"Lucio Dabney",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":11,
+"name":"Jeremy Orourke",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":12,
+"name":"Kenneth Backes",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":13,
+"name":"Byron Stolp",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":14,
+"name":"Moshe Terrell",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":15,
+"name":"Rodney Saxton",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":16,
+"name":"Timothy Blade",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":17,
+"name":"Calvin Mcgee",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":18,
+"name":"Emmitt Damato",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":19,
+"name":"Kevin Tellis",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":20,
+"name":"Rene Cornman",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":21,
+"name":"Jorge Thrush",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":22,
+"name":"Chong Batty",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":23,
+"name":"Mitchell Shaikh",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":24,
+"name":"George Batson",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":25,
+"name":"Jamaal Silverstein",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":26,
+"name":"Toney Gurley",
+"mainFunction":"Staff",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":27,
+"name":"Jefferey Nebeker",
+"mainFunction":"Staff",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":28,
+"name":"Javier Cheshire",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2016-06-01"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":31,
+"name":"Willa Kasel",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":32,
+"name":"Dalila Olmstead",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":33,
+"name":"Leesa Dietrick",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":34,
+"name":"Dalene Axford",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":35,
+"name":"Neta Barker",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":36,
+"name":"Georgina Holmon",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":37,
+"name":"Jamika Benton",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":38,
+"name":"Dorothy Berber",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":39,
+"name":"Verda Bengston",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":40,
+"name":"Penney Dix",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":41,
+"name":"Brigida Lagace",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":42,
+"name":"Sunni Corson",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":43,
+"name":"Veola Erben",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":44,
+"name":"Christa Galyean",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":45,
+"name":"Noella Hites",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":46,
+"name":"Fumiko Shell",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":47,
+"name":"Renda Centeno",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":48,
+"name":"Regina Mccallon",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":49,
+"name":"Laurene Membreno",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+"employee":
+{"employeeId":50,
+"name":"Meaghan Switzer",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+]}

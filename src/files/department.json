@@ -1,0 +1,23 @@
+{"department": [
+
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+,
+
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+]}

@@ -1,0 +1,45 @@
+{"program": [
+
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+]}

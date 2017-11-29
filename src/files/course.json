@@ -1,0 +1,681 @@
+{"course": [
+
+{"courseId":1,
+"name":"Introduction to Proofs",
+"head":
+{"employeeId":6,
+"name":"Tracey Dunne",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":2}
+,
+
+{"courseId":2,
+"name":"Calculus I",
+"head":
+{"employeeId":10,
+"name":"Lucio Dabney",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":3,
+"name":"Linear Algebra I",
+"head":
+{"employeeId":14,
+"name":"Moshe Terrell",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":4,
+"name":"Analysis I",
+"head":
+{"employeeId":18,
+"name":"Emmitt Damato",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":5,
+"name":"Algebra I",
+"head":
+{"employeeId":22,
+"name":"Chong Batty",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":6,
+"name":"Topics in Software Development",
+"head":
+{"employeeId":31,
+"name":"Willa Kasel",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":2}
+,
+
+{"courseId":7,
+"name":"Basic Software Development",
+"head":
+{"employeeId":35,
+"name":"Neta Barker",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":8,
+"name":"Basic Structured & Systems Programming",
+"head":
+{"employeeId":39,
+"name":"Verda Bengston",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":9,
+"name":"Open Source Programming",
+"head":
+{"employeeId":43,
+"name":"Veola Erben",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":10,
+"name":"Web Site Application Development",
+"head":
+{"employeeId":47,
+"name":"Renda Centeno",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":11,
+"name":"Calculus and Linear Algebra for Commerce",
+"head":
+{"employeeId":8,
+"name":"Arturo Manzanares",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":2}
+,
+
+{"courseId":12,
+"name":"Calculus II",
+"head":
+{"employeeId":12,
+"name":"Kenneth Backes",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":13,
+"name":"Linear Algebra II",
+"head":
+{"employeeId":16,
+"name":"Timothy Blade",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":14,
+"name":"Analysis II",
+"head":
+{"employeeId":20,
+"name":"Rene Cornman",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":15,
+"name":"Algebra II",
+"head":
+{"employeeId":24,
+"name":"George Batson",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":1,
+"name":"Applied Mathematics",
+"head":
+{"employeeId":5,
+"name":"Elijah Stancill",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":1,
+"name":"Math and science",
+"head":
+{"employeeId":4,
+"name":"Wilbert Kyte",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":16,
+"name":"Quality in Software Development",
+"head":
+{"employeeId":33,
+"name":"Leesa Dietrick",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":2}
+,
+
+{"courseId":17,
+"name":"Advanced Software Development",
+"head":
+{"employeeId":37,
+"name":"Jamika Benton",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":18,
+"name":"Advanced Structured & Systems Programming",
+"head":
+{"employeeId":41,
+"name":"Brigida Lagace",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":19,
+"name":"IOS Programming",
+"head":
+{"employeeId":45,
+"name":"Noella Hites",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+,
+
+{"courseId":20,
+"name":"Android Programming",
+"head":
+{"employeeId":49,
+"name":"Laurene Membreno",
+"mainFunction":"Instructor",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"program":
+{"programId":2,
+"name":"Software Development",
+"head":
+{"employeeId":30,
+"name":"Chance Penfield",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+,
+"department":
+{"departmentId":2,
+"name":"Information Technology",
+"head":
+{"employeeId":29,
+"name":"Cleveland Allaire",
+"mainFunction":"Head",
+"startDate":"2015-08-01",
+"endDate":"2017-11-28"}
+}
+}
+,
+"creditHour":4}
+]}
