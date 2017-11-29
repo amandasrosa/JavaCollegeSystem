@@ -66,17 +66,17 @@ public class CollegeSystem {
 	}
 	
 	private static void loadFiles() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("\nLoading data files...");
+		waitEnter();
 	}
 	
 	private static void saveFiles() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("\nSaving data files...");
+		waitEnter();
 	}
 	
 	private static void viewClasses() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("\nClasses of instructor <Instructor>:");
+		waitEnter();
 	}
 }
