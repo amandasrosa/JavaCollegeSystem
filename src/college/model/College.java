@@ -2,7 +2,10 @@ package college.model;
 
 import java.util.List;
 
+import college.controller.FileHandler;
+
 public class College {
+	private static FileHandler fileHandler = new FileHandler();;
 	private static List<Employee> employees;
 	private static List<Department> departments;
 	private static List<DepartmentEmployee> departmentEmployees;
@@ -24,7 +27,7 @@ public class College {
 		createSchedules();
 	}
 	public void createEmployees () {
-		
+		employees = fileHandler.parseEmployeeJson();
 	}
 	public void createDepartments () {
 		

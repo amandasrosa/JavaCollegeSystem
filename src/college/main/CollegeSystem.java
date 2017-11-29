@@ -13,7 +13,7 @@ public class CollegeSystem {
 	
 	public static void main(String[] args) {
 		scanner = new Scanner(System.in);
-
+		
 		while (true) {
 			System.out.println("\nCollege System\n");
 			System.out.println("1: Load Files");
