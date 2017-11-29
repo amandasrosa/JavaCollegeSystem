@@ -4,13 +4,14 @@ import java.util.Date;
 
 public class Schedule {
 	private int scheduleId;
-    private Classe classe;
-    private String weekday;
-    private String startHour;
-    private String endHour;
-    private Date startDate;
-    
-    public int getScheduleId() {
+	private Classe classe;
+	private String weekday;
+	private String startHour;
+	private String endHour;
+	private Date startDate;
+	private Date endDate;
+
+	public int getScheduleId() {
 		return scheduleId;
 	}
 	public void setScheduleId(int scheduleId) {
@@ -52,5 +53,25 @@ public class Schedule {
 	public void setEndDate(Date endDate) {
 		this.endDate = endDate;
 	}
-	private Date endDate;
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + scheduleId;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Schedule other = (Schedule) obj;
+		if (scheduleId != other.scheduleId)
+			return false;
+		return true;
+	}
 }

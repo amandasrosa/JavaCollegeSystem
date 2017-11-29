@@ -2,11 +2,12 @@ package college.model;
 
 public class StudentClass {
 	private int studentClassId;
-    private Classe classe;
-    private Student student;
-    private int gradeAssig;
-    private int gradeTest;
-    private int gradeProject;
+	private Classe classe;
+	private Student student;
+	private int gradeAssig;
+	private int gradeTest;
+	private int gradeProject;
+
 	public int getStudentClassId() {
 		return studentClassId;
 	}
@@ -43,5 +44,25 @@ public class StudentClass {
 	public void setGradeProject(int gradeProject) {
 		this.gradeProject = gradeProject;
 	}
-    
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + studentClassId;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		StudentClass other = (StudentClass) obj;
+		if (studentClassId != other.studentClassId)
+			return false;
+		return true;
+	} 
 }

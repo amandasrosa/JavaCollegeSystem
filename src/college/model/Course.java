@@ -6,6 +6,7 @@ public class Course {
 	private Employee head;
 	private int creditHour;
 	private Program program;
+
 	public int getCourseId() {
 		return courseId;
 	}
@@ -36,5 +37,25 @@ public class Course {
 	public void setProgram(Program program) {
 		this.program = program;
 	}
-	
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + courseId;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Course other = (Course) obj;
+		if (courseId != other.courseId)
+			return false;
+		return true;
+	}
 }

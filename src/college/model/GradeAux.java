@@ -5,7 +5,7 @@ public class GradeAux {
 	private String letter;
 	private int pointsStart;
 	private int pointsEnd;
-	
+
 	public int getGradeAuxId() {
 		return gradeAuxId;
 	}
@@ -30,5 +30,25 @@ public class GradeAux {
 	public void setPointsEnd(int pointsEnd) {
 		this.pointsEnd = pointsEnd;
 	}
-	
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + gradeAuxId;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		GradeAux other = (GradeAux) obj;
+		if (gradeAuxId != other.gradeAuxId)
+			return false;
+		return true;
+	}
 }

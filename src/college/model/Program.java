@@ -5,6 +5,7 @@ public class Program {
 	private String name;
 	private Employee head;
 	private Department department;
+
 	public int getProgramId() {
 		return programId;
 	}
@@ -29,5 +30,25 @@ public class Program {
 	public void setDepartment(Department department) {
 		this.department = department;
 	}
-	
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + programId;
+		return result;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Program other = (Program) obj;
+		if (programId != other.programId)
+			return false;
+		return true;
+	}
 }
