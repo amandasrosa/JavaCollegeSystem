@@ -20,7 +20,7 @@ import college.model.Util;
 public class CollegeController {
 
    //Instructors by classes and average student grades
-   public static String instructorsByClasses() {
+   public static void instructorsByClasses() {
        String report = Util.padRight("Instructor", 18) + " | " + Util.padRight("Class Id",10) + " | " + Util.padRight("Course", 40) + " | Average Grade\n";
        for (Classe c : College.getClasses()) {
            if (getAverageGradeOfClasse(c) != 0) {
@@ -31,7 +31,7 @@ public class CollegeController {
                report += Util.padRight(instructor, 18) + " | " + Util.padRight(classId, 10) + " | " + Util.padRight(course, 40) + " | " + average + "\n";
            }
        }
-       return report;
+       System.out.println(report);
    }
    
    public static int getAverageGradeOfClasse(Classe classe) {
@@ -52,7 +52,7 @@ public class CollegeController {
    }
    
    //Number of students by country
-   public static String studentsByCountry() {
+   public static void studentsByCountry() {
        String report = Util.padRight("Country", 15) + "| Number of Students\n";
        List<Country> countries = new ArrayList<Country>();
        for (Student s : College.getStudents()) {
@@ -69,11 +69,11 @@ public class CollegeController {
            }
            report += Util.padRight(c.toString(), 15) + "| " + count + "\n";
        }
-       return report;
+       System.out.println(report);
    }
    
    //Top 3 courses with worst average grades
-   public static String coursesByWorstAverage() {
+   public static void coursesByWorstAverage() {
        String report = Util.padRight("Course", 40) + "| Grade\n";
        Map<Course, Integer> elements = new HashMap<Course, Integer>();
        for (Course c : College.getCourses()) {
@@ -91,7 +91,7 @@ public class CollegeController {
        //report += Util.padRight(Iterables.get(treeMap.entrySet(),0).getName(), 40) + "| " + treeMap[0] +"\n";
        //report += Util.padRight(elements[1].0.getName(), 40) + "| \(elements[1].1)\n";
        //report += Util.padRight(elements[2].0.getName(), 40) + "| \(elements[2].1)\n";
-       return report;
+       System.out.println(report);
    }
    
    public static int getAverageGradeOfClassesInCourse(Course course) {
@@ -113,7 +113,7 @@ public class CollegeController {
    
    
    //Number of classes per instructor per weekday
-   public static String classesByInscructorsPerWeek() {
+   public static void classesByInscructorsPerWeek() {
        String report = Util.padRight("Instructor", 18) + " | " + Util.padRight("Weekday",12) + " | Number of classes\n";
        Map<String, Integer> elements = new HashMap<String, Integer>();
        
@@ -123,7 +123,7 @@ public class CollegeController {
                report += Util.padRight(i.getName(), 18) + " | " + Util.padRight(entry.getKey(), 12) + " | " + entry.getValue() + "\n";
            }
        }
-       return report;
+       System.out.println(report);
    }
    
    public static Map<String, Integer> schedulesPerInstructor(Employee instructor) {
@@ -142,7 +142,7 @@ public class CollegeController {
    
    
    //Top student with best average grade by program
-   public static String studentsByBestAverage() {
+   public static void studentsByBestAverage() {
        String report = Util.padRight("Program", 20) + "| " + Util.padRight("Student", 20) + "| Best Average Grade\n";
        for (Program p : College.getPrograms()) {
     	   Map<Student, Integer> elements = new HashMap<Student, Integer>();
@@ -155,7 +155,7 @@ public class CollegeController {
         	   //report += Util.padRight(p.getName(), 20) + "| " + Util.padRight(elements[0].0.getName(), 20) + "| " + elements[0].1 + "\n";
            }
        }
-       return report;
+       System.out.println(report);
    }
 
    public static Map<Student, Integer> getAverageGradeOfEachSudentInProgram(Program program) {

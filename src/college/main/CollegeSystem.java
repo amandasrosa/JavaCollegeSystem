@@ -6,6 +6,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 import college.controller.CollegeController;
+import college.controller.FileHandler;
 import college.model.*;
 
 public class CollegeSystem {
@@ -54,6 +55,8 @@ public class CollegeSystem {
 	
 	private static void saveFiles() {
 		System.out.println("\nSaving data files...");
+		FileHandler.objectsToJson();
+		System.out.println("\nData saved. Press <ENTER> to return to main menu:");
 		waitEnter();
 	}
 	
@@ -72,23 +75,23 @@ public class CollegeSystem {
 					return;
 				case "1":
 					System.out.println("\nInstructors by classes and average student grades\n");
-					System.out.println(CollegeController.instructorsByClasses());
+					CollegeController.instructorsByClasses();
 					break;
 				case "2":
 					System.out.println("\nNumber of students by country\n");
-					System.out.println(CollegeController.studentsByCountry());
+					CollegeController.studentsByCountry();
 					break;
 				case "3":
 					System.out.println("\nTop 3 courses with worst average grades\n");
-					System.out.println(CollegeController.coursesByWorstAverage());
+					CollegeController.coursesByWorstAverage();
 					break;
 				case "4":
 					System.out.println("\nNumber of classes per instructor per weekday\n");
-					System.out.println(CollegeController.classesByInscructorsPerWeek());
+					CollegeController.classesByInscructorsPerWeek();
 					break;
 				case "5":
 					System.out.println("\nTop student with best average grade by program\n");
-					System.out.println(CollegeController.studentsByBestAverage());
+					CollegeController.studentsByBestAverage();
 					break;
 			}
 			System.out.println("\nPress <ENTER> to return to report menu:");
