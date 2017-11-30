@@ -1,7 +1,7 @@
 {"schedule": [
 
 {"scheduleId":1,
-"class":
+"classe":
 {"classeId":1,
 "course":
 {"courseId":1,
@@ -53,7 +53,7 @@
 ,
 
 {"scheduleId":2,
-"class":
+"classe":
 {"classeId":1,
 "course":
 {"courseId":1,
@@ -105,7 +105,7 @@
 ,
 
 {"scheduleId":3,
-"class":
+"classe":
 {"classeId":1,
 "course":
 {"courseId":1,
@@ -157,7 +157,7 @@
 ,
 
 {"scheduleId":4,
-"class":
+"classe":
 {"classeId":5,
 "course":
 {"courseId":2,
@@ -209,7 +209,7 @@
 ,
 
 {"scheduleId":5,
-"class":
+"classe":
 {"classeId":5,
 "course":
 {"courseId":2,
@@ -261,7 +261,7 @@
 ,
 
 {"scheduleId":6,
-"class":
+"classe":
 {"classeId":5,
 "course":
 {"courseId":2,
@@ -313,7 +313,7 @@
 ,
 
 {"scheduleId":7,
-"class":
+"classe":
 {"classeId":9,
 "course":
 {"courseId":3,
@@ -365,7 +365,7 @@
 ,
 
 {"scheduleId":8,
-"class":
+"classe":
 {"classeId":9,
 "course":
 {"courseId":3,
@@ -417,7 +417,7 @@
 ,
 
 {"scheduleId":9,
-"class":
+"classe":
 {"classeId":9,
 "course":
 {"courseId":3,
@@ -469,7 +469,7 @@
 ,
 
 {"scheduleId":10,
-"class":
+"classe":
 {"classeId":13,
 "course":
 {"courseId":4,
@@ -521,7 +521,7 @@
 ,
 
 {"scheduleId":11,
-"class":
+"classe":
 {"classeId":13,
 "course":
 {"courseId":4,
@@ -573,7 +573,7 @@
 ,
 
 {"scheduleId":12,
-"class":
+"classe":
 {"classeId":13,
 "course":
 {"courseId":4,
@@ -625,7 +625,7 @@
 ,
 
 {"scheduleId":13,
-"class":
+"classe":
 {"classeId":17,
 "course":
 {"courseId":5,
@@ -677,7 +677,7 @@
 ,
 
 {"scheduleId":14,
-"class":
+"classe":
 {"classeId":17,
 "course":
 {"courseId":5,
@@ -729,7 +729,7 @@
 ,
 
 {"scheduleId":15,
-"class":
+"classe":
 {"classeId":17,
 "course":
 {"courseId":5,
@@ -781,7 +781,7 @@
 ,
 
 {"scheduleId":16,
-"class":
+"classe":
 {"classeId":2,
 "course":
 {"courseId":1,
@@ -833,7 +833,7 @@
 ,
 
 {"scheduleId":17,
-"class":
+"classe":
 {"classeId":2,
 "course":
 {"courseId":1,
@@ -885,7 +885,7 @@
 ,
 
 {"scheduleId":18,
-"class":
+"classe":
 {"classeId":2,
 "course":
 {"courseId":1,
@@ -937,7 +937,7 @@
 ,
 
 {"scheduleId":19,
-"class":
+"classe":
 {"classeId":6,
 "course":
 {"courseId":2,
@@ -989,7 +989,7 @@
 ,
 
 {"scheduleId":20,
-"class":
+"classe":
 {"classeId":6,
 "course":
 {"courseId":2,
@@ -1041,7 +1041,7 @@
 ,
 
 {"scheduleId":21,
-"class":
+"classe":
 {"classeId":6,
 "course":
 {"courseId":2,
@@ -1093,7 +1093,7 @@
 ,
 
 {"scheduleId":22,
-"class":
+"classe":
 {"classeId":10,
 "course":
 {"courseId":3,
@@ -1145,7 +1145,7 @@
 ,
 
 {"scheduleId":23,
-"class":
+"classe":
 {"classeId":10,
 "course":
 {"courseId":3,
@@ -1197,7 +1197,7 @@
 ,
 
 {"scheduleId":24,
-"class":
+"classe":
 {"classeId":10,
 "course":
 {"courseId":3,
@@ -1249,7 +1249,7 @@
 ,
 
 {"scheduleId":25,
-"class":
+"classe":
 {"classeId":14,
 "course":
 {"courseId":4,
@@ -1301,7 +1301,7 @@
 ,
 
 {"scheduleId":26,
-"class":
+"classe":
 {"classeId":14,
 "course":
 {"courseId":4,
@@ -1353,7 +1353,7 @@
 ,
 
 {"scheduleId":27,
-"class":
+"classe":
 {"classeId":14,
 "course":
 {"courseId":4,
@@ -1405,7 +1405,7 @@
 ,
 
 {"scheduleId":28,
-"class":
+"classe":
 {"classeId":18,
 "course":
 {"courseId":5,
@@ -1457,7 +1457,7 @@
 ,
 
 {"scheduleId":29,
-"class":
+"classe":
 {"classeId":18,
 "course":
 {"courseId":5,
@@ -1509,7 +1509,7 @@
 ,
 
 {"scheduleId":30,
-"class":
+"classe":
 {"classeId":18,
 "course":
 {"courseId":5,
@@ -1561,7 +1561,7 @@
 ,
 
 {"scheduleId":31,
-"class":
+"classe":
 {"classeId":3,
 "course":
 {"courseId":1,
@@ -1613,7 +1613,7 @@
 ,
 
 {"scheduleId":32,
-"class":
+"classe":
 {"classeId":3,
 "course":
 {"courseId":1,
@@ -1665,7 +1665,7 @@
 ,
 
 {"scheduleId":33,
-"class":
+"classe":
 {"classeId":7,
 "course":
 {"courseId":2,
@@ -1717,7 +1717,7 @@
 ,
 
 {"scheduleId":34,
-"class":
+"classe":
 {"classeId":7,
 "course":
 {"courseId":2,
@@ -1769,7 +1769,7 @@
 ,
 
 {"scheduleId":35,
-"class":
+"classe":
 {"classeId":11,
 "course":
 {"courseId":3,
@@ -1821,7 +1821,7 @@
 ,
 
 {"scheduleId":36,
-"class":
+"classe":
 {"classeId":11,
 "course":
 {"courseId":3,
@@ -1873,7 +1873,7 @@
 ,
 
 {"scheduleId":37,
-"class":
+"classe":
 {"classeId":15,
 "course":
 {"courseId":4,
@@ -1925,7 +1925,7 @@
 ,
 
 {"scheduleId":38,
-"class":
+"classe":
 {"classeId":15,
 "course":
 {"courseId":4,
@@ -1977,7 +1977,7 @@
 ,
 
 {"scheduleId":39,
-"class":
+"classe":
 {"classeId":19,
 "course":
 {"courseId":5,
@@ -2029,7 +2029,7 @@
 ,
 
 {"scheduleId":40,
-"class":
+"classe":
 {"classeId":19,
 "course":
 {"courseId":5,
@@ -2081,7 +2081,7 @@
 ,
 
 {"scheduleId":41,
-"class":
+"classe":
 {"classeId":4,
 "course":
 {"courseId":1,
@@ -2133,7 +2133,7 @@
 ,
 
 {"scheduleId":42,
-"class":
+"classe":
 {"classeId":4,
 "course":
 {"courseId":1,
@@ -2185,7 +2185,7 @@
 ,
 
 {"scheduleId":43,
-"class":
+"classe":
 {"classeId":8,
 "course":
 {"courseId":2,
@@ -2237,7 +2237,7 @@
 ,
 
 {"scheduleId":44,
-"class":
+"classe":
 {"classeId":8,
 "course":
 {"courseId":2,
@@ -2289,7 +2289,7 @@
 ,
 
 {"scheduleId":45,
-"class":
+"classe":
 {"classeId":12,
 "course":
 {"courseId":3,
@@ -2341,7 +2341,7 @@
 ,
 
 {"scheduleId":46,
-"class":
+"classe":
 {"classeId":12,
 "course":
 {"courseId":3,
@@ -2393,7 +2393,7 @@
 ,
 
 {"scheduleId":47,
-"class":
+"classe":
 {"classeId":16,
 "course":
 {"courseId":4,
@@ -2445,7 +2445,7 @@
 ,
 
 {"scheduleId":48,
-"class":
+"classe":
 {"classeId":16,
 "course":
 {"courseId":4,
@@ -2497,7 +2497,7 @@
 ,
 
 {"scheduleId":49,
-"class":
+"classe":
 {"classeId":20,
 "course":
 {"courseId":5,
@@ -2549,7 +2549,7 @@
 ,
 
 {"scheduleId":50,
-"class":
+"classe":
 {"classeId":20,
 "course":
 {"courseId":5,
@@ -2601,7 +2601,7 @@
 ,
 
 {"scheduleId":51,
-"class":
+"classe":
 {"classeId":21,
 "course":
 {"courseId":6,
@@ -2653,7 +2653,7 @@
 ,
 
 {"scheduleId":52,
-"class":
+"classe":
 {"classeId":21,
 "course":
 {"courseId":6,
@@ -2705,7 +2705,7 @@
 ,
 
 {"scheduleId":53,
-"class":
+"classe":
 {"classeId":21,
 "course":
 {"courseId":6,
@@ -2757,7 +2757,7 @@
 ,
 
 {"scheduleId":54,
-"class":
+"classe":
 {"classeId":25,
 "course":
 {"courseId":7,
@@ -2809,7 +2809,7 @@
 ,
 
 {"scheduleId":55,
-"class":
+"classe":
 {"classeId":25,
 "course":
 {"courseId":7,
@@ -2861,7 +2861,7 @@
 ,
 
 {"scheduleId":56,
-"class":
+"classe":
 {"classeId":25,
 "course":
 {"courseId":7,
@@ -2913,7 +2913,7 @@
 ,
 
 {"scheduleId":57,
-"class":
+"classe":
 {"classeId":29,
 "course":
 {"courseId":8,
@@ -2965,7 +2965,7 @@
 ,
 
 {"scheduleId":58,
-"class":
+"classe":
 {"classeId":29,
 "course":
 {"courseId":8,
@@ -3017,7 +3017,7 @@
 ,
 
 {"scheduleId":59,
-"class":
+"classe":
 {"classeId":29,
 "course":
 {"courseId":8,
@@ -3069,7 +3069,7 @@
 ,
 
 {"scheduleId":60,
-"class":
+"classe":
 {"classeId":33,
 "course":
 {"courseId":9,
@@ -3121,7 +3121,7 @@
 ,
 
 {"scheduleId":61,
-"class":
+"classe":
 {"classeId":33,
 "course":
 {"courseId":9,
@@ -3173,7 +3173,7 @@
 ,
 
 {"scheduleId":62,
-"class":
+"classe":
 {"classeId":33,
 "course":
 {"courseId":9,
@@ -3225,7 +3225,7 @@
 ,
 
 {"scheduleId":63,
-"class":
+"classe":
 {"classeId":37,
 "course":
 {"courseId":10,
@@ -3277,7 +3277,7 @@
 ,
 
 {"scheduleId":64,
-"class":
+"classe":
 {"classeId":37,
 "course":
 {"courseId":10,
@@ -3329,7 +3329,7 @@
 ,
 
 {"scheduleId":65,
-"class":
+"classe":
 {"classeId":37,
 "course":
 {"courseId":10,
@@ -3381,7 +3381,7 @@
 ,
 
 {"scheduleId":66,
-"class":
+"classe":
 {"classeId":22,
 "course":
 {"courseId":6,
@@ -3433,7 +3433,7 @@
 ,
 
 {"scheduleId":67,
-"class":
+"classe":
 {"classeId":22,
 "course":
 {"courseId":6,
@@ -3485,7 +3485,7 @@
 ,
 
 {"scheduleId":68,
-"class":
+"classe":
 {"classeId":22,
 "course":
 {"courseId":6,
@@ -3537,7 +3537,7 @@
 ,
 
 {"scheduleId":69,
-"class":
+"classe":
 {"classeId":26,
 "course":
 {"courseId":7,
@@ -3589,7 +3589,7 @@
 ,
 
 {"scheduleId":70,
-"class":
+"classe":
 {"classeId":26,
 "course":
 {"courseId":7,
@@ -3641,7 +3641,7 @@
 ,
 
 {"scheduleId":71,
-"class":
+"classe":
 {"classeId":26,
 "course":
 {"courseId":7,
@@ -3693,7 +3693,7 @@
 ,
 
 {"scheduleId":72,
-"class":
+"classe":
 {"classeId":30,
 "course":
 {"courseId":8,
@@ -3745,7 +3745,7 @@
 ,
 
 {"scheduleId":73,
-"class":
+"classe":
 {"classeId":30,
 "course":
 {"courseId":8,
@@ -3797,7 +3797,7 @@
 ,
 
 {"scheduleId":74,
-"class":
+"classe":
 {"classeId":30,
 "course":
 {"courseId":8,
@@ -3849,7 +3849,7 @@
 ,
 
 {"scheduleId":75,
-"class":
+"classe":
 {"classeId":34,
 "course":
 {"courseId":9,
@@ -3901,7 +3901,7 @@
 ,
 
 {"scheduleId":76,
-"class":
+"classe":
 {"classeId":34,
 "course":
 {"courseId":9,
@@ -3953,7 +3953,7 @@
 ,
 
 {"scheduleId":77,
-"class":
+"classe":
 {"classeId":34,
 "course":
 {"courseId":9,
@@ -4005,7 +4005,7 @@
 ,
 
 {"scheduleId":78,
-"class":
+"classe":
 {"classeId":38,
 "course":
 {"courseId":10,
@@ -4057,7 +4057,7 @@
 ,
 
 {"scheduleId":79,
-"class":
+"classe":
 {"classeId":38,
 "course":
 {"courseId":10,
@@ -4109,7 +4109,7 @@
 ,
 
 {"scheduleId":80,
-"class":
+"classe":
 {"classeId":38,
 "course":
 {"courseId":10,
@@ -4161,7 +4161,7 @@
 ,
 
 {"scheduleId":81,
-"class":
+"classe":
 {"classeId":23,
 "course":
 {"courseId":6,
@@ -4213,7 +4213,7 @@
 ,
 
 {"scheduleId":82,
-"class":
+"classe":
 {"classeId":23,
 "course":
 {"courseId":6,
@@ -4265,7 +4265,7 @@
 ,
 
 {"scheduleId":83,
-"class":
+"classe":
 {"classeId":27,
 "course":
 {"courseId":7,
@@ -4317,7 +4317,7 @@
 ,
 
 {"scheduleId":84,
-"class":
+"classe":
 {"classeId":27,
 "course":
 {"courseId":7,
@@ -4369,7 +4369,7 @@
 ,
 
 {"scheduleId":85,
-"class":
+"classe":
 {"classeId":31,
 "course":
 {"courseId":8,
@@ -4421,7 +4421,7 @@
 ,
 
 {"scheduleId":86,
-"class":
+"classe":
 {"classeId":31,
 "course":
 {"courseId":8,
@@ -4473,7 +4473,7 @@
 ,
 
 {"scheduleId":87,
-"class":
+"classe":
 {"classeId":35,
 "course":
 {"courseId":9,
@@ -4525,7 +4525,7 @@
 ,
 
 {"scheduleId":88,
-"class":
+"classe":
 {"classeId":35,
 "course":
 {"courseId":9,
@@ -4577,7 +4577,7 @@
 ,
 
 {"scheduleId":89,
-"class":
+"classe":
 {"classeId":39,
 "course":
 {"courseId":10,
@@ -4629,7 +4629,7 @@
 ,
 
 {"scheduleId":90,
-"class":
+"classe":
 {"classeId":39,
 "course":
 {"courseId":10,
@@ -4681,7 +4681,7 @@
 ,
 
 {"scheduleId":91,
-"class":
+"classe":
 {"classeId":24,
 "course":
 {"courseId":6,
@@ -4733,7 +4733,7 @@
 ,
 
 {"scheduleId":92,
-"class":
+"classe":
 {"classeId":24,
 "course":
 {"courseId":6,
@@ -4785,7 +4785,7 @@
 ,
 
 {"scheduleId":93,
-"class":
+"classe":
 {"classeId":28,
 "course":
 {"courseId":7,
@@ -4837,7 +4837,7 @@
 ,
 
 {"scheduleId":94,
-"class":
+"classe":
 {"classeId":28,
 "course":
 {"courseId":7,
@@ -4889,7 +4889,7 @@
 ,
 
 {"scheduleId":95,
-"class":
+"classe":
 {"classeId":32,
 "course":
 {"courseId":8,
@@ -4941,7 +4941,7 @@
 ,
 
 {"scheduleId":96,
-"class":
+"classe":
 {"classeId":32,
 "course":
 {"courseId":8,
@@ -4993,7 +4993,7 @@
 ,
 
 {"scheduleId":97,
-"class":
+"classe":
 {"classeId":36,
 "course":
 {"courseId":9,
@@ -5045,7 +5045,7 @@
 ,
 
 {"scheduleId":98,
-"class":
+"classe":
 {"classeId":36,
 "course":
 {"courseId":9,
@@ -5097,7 +5097,7 @@
 ,
 
 {"scheduleId":99,
-"class":
+"classe":
 {"classeId":40,
 "course":
 {"courseId":10,
@@ -5149,7 +5149,7 @@
 ,
 
 {"scheduleId":100,
-"class":
+"classe":
 {"classeId":40,
 "course":
 {"courseId":10,
@@ -5201,7 +5201,7 @@
 ,
 
 {"scheduleId":101,
-"class":
+"classe":
 {"classeId":41,
 "course":
 {"courseId":11,
@@ -5253,7 +5253,7 @@
 ,
 
 {"scheduleId":102,
-"class":
+"classe":
 {"classeId":41,
 "course":
 {"courseId":11,
@@ -5305,7 +5305,7 @@
 ,
 
 {"scheduleId":103,
-"class":
+"classe":
 {"classeId":41,
 "course":
 {"courseId":11,
@@ -5357,7 +5357,7 @@
 ,
 
 {"scheduleId":104,
-"class":
+"classe":
 {"classeId":45,
 "course":
 {"courseId":12,
@@ -5409,7 +5409,7 @@
 ,
 
 {"scheduleId":105,
-"class":
+"classe":
 {"classeId":45,
 "course":
 {"courseId":12,
@@ -5461,7 +5461,7 @@
 ,
 
 {"scheduleId":106,
-"class":
+"classe":
 {"classeId":45,
 "course":
 {"courseId":12,
@@ -5513,7 +5513,7 @@
 ,
 
 {"scheduleId":107,
-"class":
+"classe":
 {"classeId":49,
 "course":
 {"courseId":13,
@@ -5565,7 +5565,7 @@
 ,
 
 {"scheduleId":108,
-"class":
+"classe":
 {"classeId":49,
 "course":
 {"courseId":13,
@@ -5617,7 +5617,7 @@
 ,
 
 {"scheduleId":109,
-"class":
+"classe":
 {"classeId":49,
 "course":
 {"courseId":13,
@@ -5669,7 +5669,7 @@
 ,
 
 {"scheduleId":110,
-"class":
+"classe":
 {"classeId":53,
 "course":
 {"courseId":14,
@@ -5721,7 +5721,7 @@
 ,
 
 {"scheduleId":111,
-"class":
+"classe":
 {"classeId":53,
 "course":
 {"courseId":14,
@@ -5773,7 +5773,7 @@
 ,
 
 {"scheduleId":112,
-"class":
+"classe":
 {"classeId":53,
 "course":
 {"courseId":14,
@@ -5825,7 +5825,7 @@
 ,
 
 {"scheduleId":113,
-"class":
+"classe":
 {"classeId":57,
 "course":
 {"courseId":15,
@@ -5877,7 +5877,7 @@
 ,
 
 {"scheduleId":114,
-"class":
+"classe":
 {"classeId":57,
 "course":
 {"courseId":15,
@@ -5929,7 +5929,7 @@
 ,
 
 {"scheduleId":115,
-"class":
+"classe":
 {"classeId":57,
 "course":
 {"courseId":15,
@@ -5981,7 +5981,7 @@
 ,
 
 {"scheduleId":116,
-"class":
+"classe":
 {"classeId":42,
 "course":
 {"courseId":11,
@@ -6033,7 +6033,7 @@
 ,
 
 {"scheduleId":117,
-"class":
+"classe":
 {"classeId":42,
 "course":
 {"courseId":11,
@@ -6085,7 +6085,7 @@
 ,
 
 {"scheduleId":118,
-"class":
+"classe":
 {"classeId":42,
 "course":
 {"courseId":11,
@@ -6137,7 +6137,7 @@
 ,
 
 {"scheduleId":119,
-"class":
+"classe":
 {"classeId":46,
 "course":
 {"courseId":12,
@@ -6189,7 +6189,7 @@
 ,
 
 {"scheduleId":120,
-"class":
+"classe":
 {"classeId":46,
 "course":
 {"courseId":12,
@@ -6241,7 +6241,7 @@
 ,
 
 {"scheduleId":121,
-"class":
+"classe":
 {"classeId":46,
 "course":
 {"courseId":12,
@@ -6293,7 +6293,7 @@
 ,
 
 {"scheduleId":122,
-"class":
+"classe":
 {"classeId":50,
 "course":
 {"courseId":13,
@@ -6345,7 +6345,7 @@
 ,
 
 {"scheduleId":123,
-"class":
+"classe":
 {"classeId":50,
 "course":
 {"courseId":13,
@@ -6397,7 +6397,7 @@
 ,
 
 {"scheduleId":124,
-"class":
+"classe":
 {"classeId":50,
 "course":
 {"courseId":13,
@@ -6449,7 +6449,7 @@
 ,
 
 {"scheduleId":125,
-"class":
+"classe":
 {"classeId":54,
 "course":
 {"courseId":14,
@@ -6501,7 +6501,7 @@
 ,
 
 {"scheduleId":126,
-"class":
+"classe":
 {"classeId":54,
 "course":
 {"courseId":14,
@@ -6553,7 +6553,7 @@
 ,
 
 {"scheduleId":127,
-"class":
+"classe":
 {"classeId":54,
 "course":
 {"courseId":14,
@@ -6605,7 +6605,7 @@
 ,
 
 {"scheduleId":128,
-"class":
+"classe":
 {"classeId":58,
 "course":
 {"courseId":15,
@@ -6657,7 +6657,7 @@
 ,
 
 {"scheduleId":129,
-"class":
+"classe":
 {"classeId":58,
 "course":
 {"courseId":15,
@@ -6709,7 +6709,7 @@
 ,
 
 {"scheduleId":130,
-"class":
+"classe":
 {"classeId":58,
 "course":
 {"courseId":15,
@@ -6761,7 +6761,7 @@
 ,
 
 {"scheduleId":131,
-"class":
+"classe":
 {"classeId":43,
 "course":
 {"courseId":11,
@@ -6813,7 +6813,7 @@
 ,
 
 {"scheduleId":132,
-"class":
+"classe":
 {"classeId":43,
 "course":
 {"courseId":11,
@@ -6865,7 +6865,7 @@
 ,
 
 {"scheduleId":133,
-"class":
+"classe":
 {"classeId":47,
 "course":
 {"courseId":12,
@@ -6917,7 +6917,7 @@
 ,
 
 {"scheduleId":134,
-"class":
+"classe":
 {"classeId":47,
 "course":
 {"courseId":12,
@@ -6969,7 +6969,7 @@
 ,
 
 {"scheduleId":135,
-"class":
+"classe":
 {"classeId":51,
 "course":
 {"courseId":13,
@@ -7021,7 +7021,7 @@
 ,
 
 {"scheduleId":136,
-"class":
+"classe":
 {"classeId":51,
 "course":
 {"courseId":13,
@@ -7073,7 +7073,7 @@
 ,
 
 {"scheduleId":137,
-"class":
+"classe":
 {"classeId":55,
 "course":
 {"courseId":14,
@@ -7125,7 +7125,7 @@
 ,
 
 {"scheduleId":138,
-"class":
+"classe":
 {"classeId":55,
 "course":
 {"courseId":14,
@@ -7177,7 +7177,7 @@
 ,
 
 {"scheduleId":139,
-"class":
+"classe":
 {"classeId":59,
 "course":
 {"courseId":15,
@@ -7229,7 +7229,7 @@
 ,
 
 {"scheduleId":140,
-"class":
+"classe":
 {"classeId":59,
 "course":
 {"courseId":15,
@@ -7281,7 +7281,7 @@
 ,
 
 {"scheduleId":141,
-"class":
+"classe":
 {"classeId":44,
 "course":
 {"courseId":11,
@@ -7333,7 +7333,7 @@
 ,
 
 {"scheduleId":142,
-"class":
+"classe":
 {"classeId":44,
 "course":
 {"courseId":11,
@@ -7385,7 +7385,7 @@
 ,
 
 {"scheduleId":143,
-"class":
+"classe":
 {"classeId":48,
 "course":
 {"courseId":12,
@@ -7437,7 +7437,7 @@
 ,
 
 {"scheduleId":144,
-"class":
+"classe":
 {"classeId":48,
 "course":
 {"courseId":12,
@@ -7489,7 +7489,7 @@
 ,
 
 {"scheduleId":145,
-"class":
+"classe":
 {"classeId":52,
 "course":
 {"courseId":13,
@@ -7541,7 +7541,7 @@
 ,
 
 {"scheduleId":146,
-"class":
+"classe":
 {"classeId":52,
 "course":
 {"courseId":13,
@@ -7593,7 +7593,7 @@
 ,
 
 {"scheduleId":147,
-"class":
+"classe":
 {"classeId":56,
 "course":
 {"courseId":14,
@@ -7645,7 +7645,7 @@
 ,
 
 {"scheduleId":148,
-"class":
+"classe":
 {"classeId":56,
 "course":
 {"courseId":14,
@@ -7697,7 +7697,7 @@
 ,
 
 {"scheduleId":149,
-"class":
+"classe":
 {"classeId":60,
 "course":
 {"courseId":15,
@@ -7749,7 +7749,7 @@
 ,
 
 {"scheduleId":150,
-"class":
+"classe":
 {"classeId":60,
 "course":
 {"courseId":15,
@@ -7801,7 +7801,7 @@
 ,
 
 {"scheduleId":151,
-"class":
+"classe":
 {"classeId":61,
 "course":
 {"courseId":16,
@@ -7853,7 +7853,7 @@
 ,
 
 {"scheduleId":152,
-"class":
+"classe":
 {"classeId":61,
 "course":
 {"courseId":16,
@@ -7905,7 +7905,7 @@
 ,
 
 {"scheduleId":153,
-"class":
+"classe":
 {"classeId":61,
 "course":
 {"courseId":16,
@@ -7957,7 +7957,7 @@
 ,
 
 {"scheduleId":154,
-"class":
+"classe":
 {"classeId":65,
 "course":
 {"courseId":17,
@@ -8009,7 +8009,7 @@
 ,
 
 {"scheduleId":155,
-"class":
+"classe":
 {"classeId":65,
 "course":
 {"courseId":17,
@@ -8061,7 +8061,7 @@
 ,
 
 {"scheduleId":156,
-"class":
+"classe":
 {"classeId":65,
 "course":
 {"courseId":17,
@@ -8113,7 +8113,7 @@
 ,
 
 {"scheduleId":157,
-"class":
+"classe":
 {"classeId":69,
 "course":
 {"courseId":18,
@@ -8165,7 +8165,7 @@
 ,
 
 {"scheduleId":158,
-"class":
+"classe":
 {"classeId":69,
 "course":
 {"courseId":18,
@@ -8217,7 +8217,7 @@
 ,
 
 {"scheduleId":159,
-"class":
+"classe":
 {"classeId":69,
 "course":
 {"courseId":18,
@@ -8269,7 +8269,7 @@
 ,
 
 {"scheduleId":160,
-"class":
+"classe":
 {"classeId":73,
 "course":
 {"courseId":19,
@@ -8321,7 +8321,7 @@
 ,
 
 {"scheduleId":161,
-"class":
+"classe":
 {"classeId":73,
 "course":
 {"courseId":19,
@@ -8373,7 +8373,7 @@
 ,
 
 {"scheduleId":162,
-"class":
+"classe":
 {"classeId":73,
 "course":
 {"courseId":19,
@@ -8425,7 +8425,7 @@
 ,
 
 {"scheduleId":163,
-"class":
+"classe":
 {"classeId":77,
 "course":
 {"courseId":20,
@@ -8477,7 +8477,7 @@
 ,
 
 {"scheduleId":164,
-"class":
+"classe":
 {"classeId":77,
 "course":
 {"courseId":20,
@@ -8529,7 +8529,7 @@
 ,
 
 {"scheduleId":165,
-"class":
+"classe":
 {"classeId":77,
 "course":
 {"courseId":20,
@@ -8581,7 +8581,7 @@
 ,
 
 {"scheduleId":166,
-"class":
+"classe":
 {"classeId":62,
 "course":
 {"courseId":16,
@@ -8633,7 +8633,7 @@
 ,
 
 {"scheduleId":167,
-"class":
+"classe":
 {"classeId":62,
 "course":
 {"courseId":16,
@@ -8685,7 +8685,7 @@
 ,
 
 {"scheduleId":168,
-"class":
+"classe":
 {"classeId":62,
 "course":
 {"courseId":16,
@@ -8737,7 +8737,7 @@
 ,
 
 {"scheduleId":169,
-"class":
+"classe":
 {"classeId":66,
 "course":
 {"courseId":17,
@@ -8789,7 +8789,7 @@
 ,
 
 {"scheduleId":170,
-"class":
+"classe":
 {"classeId":66,
 "course":
 {"courseId":17,
@@ -8841,7 +8841,7 @@
 ,
 
 {"scheduleId":171,
-"class":
+"classe":
 {"classeId":66,
 "course":
 {"courseId":17,
@@ -8893,7 +8893,7 @@
 ,
 
 {"scheduleId":172,
-"class":
+"classe":
 {"classeId":70,
 "course":
 {"courseId":18,
@@ -8945,7 +8945,7 @@
 ,
 
 {"scheduleId":173,
-"class":
+"classe":
 {"classeId":70,
 "course":
 {"courseId":18,
@@ -8997,7 +8997,7 @@
 ,
 
 {"scheduleId":174,
-"class":
+"classe":
 {"classeId":70,
 "course":
 {"courseId":18,
@@ -9049,7 +9049,7 @@
 ,
 
 {"scheduleId":175,
-"class":
+"classe":
 {"classeId":74,
 "course":
 {"courseId":19,
@@ -9101,7 +9101,7 @@
 ,
 
 {"scheduleId":176,
-"class":
+"classe":
 {"classeId":74,
 "course":
 {"courseId":19,
@@ -9153,7 +9153,7 @@
 ,
 
 {"scheduleId":177,
-"class":
+"classe":
 {"classeId":74,
 "course":
 {"courseId":19,
@@ -9205,7 +9205,7 @@
 ,
 
 {"scheduleId":178,
-"class":
+"classe":
 {"classeId":78,
 "course":
 {"courseId":20,
@@ -9257,7 +9257,7 @@
 ,
 
 {"scheduleId":179,
-"class":
+"classe":
 {"classeId":78,
 "course":
 {"courseId":20,
@@ -9309,7 +9309,7 @@
 ,
 
 {"scheduleId":180,
-"class":
+"classe":
 {"classeId":78,
 "course":
 {"courseId":20,
@@ -9361,7 +9361,7 @@
 ,
 
 {"scheduleId":181,
-"class":
+"classe":
 {"classeId":63,
 "course":
 {"courseId":16,
@@ -9413,7 +9413,7 @@
 ,
 
 {"scheduleId":182,
-"class":
+"classe":
 {"classeId":63,
 "course":
 {"courseId":16,
@@ -9465,7 +9465,7 @@
 ,
 
 {"scheduleId":183,
-"class":
+"classe":
 {"classeId":67,
 "course":
 {"courseId":17,
@@ -9517,7 +9517,7 @@
 ,
 
 {"scheduleId":184,
-"class":
+"classe":
 {"classeId":67,
 "course":
 {"courseId":17,
@@ -9569,7 +9569,7 @@
 ,
 
 {"scheduleId":185,
-"class":
+"classe":
 {"classeId":71,
 "course":
 {"courseId":18,
@@ -9621,7 +9621,7 @@
 ,
 
 {"scheduleId":186,
-"class":
+"classe":
 {"classeId":71,
 "course":
 {"courseId":18,
@@ -9673,7 +9673,7 @@
 ,
 
 {"scheduleId":187,
-"class":
+"classe":
 {"classeId":75,
 "course":
 {"courseId":19,
@@ -9725,7 +9725,7 @@
 ,
 
 {"scheduleId":188,
-"class":
+"classe":
 {"classeId":75,
 "course":
 {"courseId":19,
@@ -9777,7 +9777,7 @@
 ,
 
 {"scheduleId":189,
-"class":
+"classe":
 {"classeId":79,
 "course":
 {"courseId":20,
@@ -9829,7 +9829,7 @@
 ,
 
 {"scheduleId":190,
-"class":
+"classe":
 {"classeId":79,
 "course":
 {"courseId":20,
@@ -9881,7 +9881,7 @@
 ,
 
 {"scheduleId":191,
-"class":
+"classe":
 {"classeId":64,
 "course":
 {"courseId":16,
@@ -9933,7 +9933,7 @@
 ,
 
 {"scheduleId":192,
-"class":
+"classe":
 {"classeId":64,
 "course":
 {"courseId":16,
@@ -9985,7 +9985,7 @@
 ,
 
 {"scheduleId":193,
-"class":
+"classe":
 {"classeId":68,
 "course":
 {"courseId":17,
@@ -10037,7 +10037,7 @@
 ,
 
 {"scheduleId":194,
-"class":
+"classe":
 {"classeId":68,
 "course":
 {"courseId":17,
@@ -10089,7 +10089,7 @@
 ,
 
 {"scheduleId":195,
-"class":
+"classe":
 {"classeId":72,
 "course":
 {"courseId":18,
@@ -10141,7 +10141,7 @@
 ,
 
 {"scheduleId":196,
-"class":
+"classe":
 {"classeId":72,
 "course":
 {"courseId":18,
@@ -10193,7 +10193,7 @@
 ,
 
 {"scheduleId":197,
-"class":
+"classe":
 {"classeId":76,
 "course":
 {"courseId":19,
@@ -10245,7 +10245,7 @@
 ,
 
 {"scheduleId":198,
-"class":
+"classe":
 {"classeId":76,
 "course":
 {"courseId":19,
@@ -10297,7 +10297,7 @@
 ,
 
 {"scheduleId":199,
-"class":
+"classe":
 {"classeId":80,
 "course":
 {"courseId":20,
@@ -10349,7 +10349,7 @@
 ,
 
 {"scheduleId":200,
-"class":
+"classe":
 {"classeId":80,
 "course":
 {"courseId":20,
@@ -10401,7 +10401,7 @@
 ,
 
 {"scheduleId":201,
-"class":
+"classe":
 {"classeId":81,
 "course":
 {"courseId":1,
@@ -10453,7 +10453,7 @@
 ,
 
 {"scheduleId":202,
-"class":
+"classe":
 {"classeId":81,
 "course":
 {"courseId":1,
@@ -10505,7 +10505,7 @@
 ,
 
 {"scheduleId":203,
-"class":
+"classe":
 {"classeId":81,
 "course":
 {"courseId":1,
@@ -10557,7 +10557,7 @@
 ,
 
 {"scheduleId":204,
-"class":
+"classe":
 {"classeId":85,
 "course":
 {"courseId":2,
@@ -10609,7 +10609,7 @@
 ,
 
 {"scheduleId":205,
-"class":
+"classe":
 {"classeId":85,
 "course":
 {"courseId":2,
@@ -10661,7 +10661,7 @@
 ,
 
 {"scheduleId":206,
-"class":
+"classe":
 {"classeId":85,
 "course":
 {"courseId":2,
@@ -10713,7 +10713,7 @@
 ,
 
 {"scheduleId":207,
-"class":
+"classe":
 {"classeId":89,
 "course":
 {"courseId":3,
@@ -10765,7 +10765,7 @@
 ,
 
 {"scheduleId":208,
-"class":
+"classe":
 {"classeId":89,
 "course":
 {"courseId":3,
@@ -10817,7 +10817,7 @@
 ,
 
 {"scheduleId":209,
-"class":
+"classe":
 {"classeId":89,
 "course":
 {"courseId":3,
@@ -10869,7 +10869,7 @@
 ,
 
 {"scheduleId":210,
-"class":
+"classe":
 {"classeId":93,
 "course":
 {"courseId":4,
@@ -10921,7 +10921,7 @@
 ,
 
 {"scheduleId":211,
-"class":
+"classe":
 {"classeId":93,
 "course":
 {"courseId":4,
@@ -10973,7 +10973,7 @@
 ,
 
 {"scheduleId":212,
-"class":
+"classe":
 {"classeId":93,
 "course":
 {"courseId":4,
@@ -11025,7 +11025,7 @@
 ,
 
 {"scheduleId":213,
-"class":
+"classe":
 {"classeId":97,
 "course":
 {"courseId":5,
@@ -11077,7 +11077,7 @@
 ,
 
 {"scheduleId":214,
-"class":
+"classe":
 {"classeId":97,
 "course":
 {"courseId":5,
@@ -11129,7 +11129,7 @@
 ,
 
 {"scheduleId":215,
-"class":
+"classe":
 {"classeId":97,
 "course":
 {"courseId":5,
@@ -11181,7 +11181,7 @@
 ,
 
 {"scheduleId":216,
-"class":
+"classe":
 {"classeId":82,
 "course":
 {"courseId":1,
@@ -11233,7 +11233,7 @@
 ,
 
 {"scheduleId":217,
-"class":
+"classe":
 {"classeId":82,
 "course":
 {"courseId":1,
@@ -11285,7 +11285,7 @@
 ,
 
 {"scheduleId":218,
-"class":
+"classe":
 {"classeId":82,
 "course":
 {"courseId":1,
@@ -11337,7 +11337,7 @@
 ,
 
 {"scheduleId":219,
-"class":
+"classe":
 {"classeId":86,
 "course":
 {"courseId":2,
@@ -11389,7 +11389,7 @@
 ,
 
 {"scheduleId":220,
-"class":
+"classe":
 {"classeId":86,
 "course":
 {"courseId":2,
@@ -11441,7 +11441,7 @@
 ,
 
 {"scheduleId":221,
-"class":
+"classe":
 {"classeId":86,
 "course":
 {"courseId":2,
@@ -11493,7 +11493,7 @@
 ,
 
 {"scheduleId":222,
-"class":
+"classe":
 {"classeId":90,
 "course":
 {"courseId":3,
@@ -11545,7 +11545,7 @@
 ,
 
 {"scheduleId":223,
-"class":
+"classe":
 {"classeId":90,
 "course":
 {"courseId":3,
@@ -11597,7 +11597,7 @@
 ,
 
 {"scheduleId":224,
-"class":
+"classe":
 {"classeId":90,
 "course":
 {"courseId":3,
@@ -11649,7 +11649,7 @@
 ,
 
 {"scheduleId":225,
-"class":
+"classe":
 {"classeId":94,
 "course":
 {"courseId":4,
@@ -11701,7 +11701,7 @@
 ,
 
 {"scheduleId":226,
-"class":
+"classe":
 {"classeId":94,
 "course":
 {"courseId":4,
@@ -11753,7 +11753,7 @@
 ,
 
 {"scheduleId":227,
-"class":
+"classe":
 {"classeId":94,
 "course":
 {"courseId":4,
@@ -11805,7 +11805,7 @@
 ,
 
 {"scheduleId":228,
-"class":
+"classe":
 {"classeId":98,
 "course":
 {"courseId":5,
@@ -11857,7 +11857,7 @@
 ,
 
 {"scheduleId":229,
-"class":
+"classe":
 {"classeId":98,
 "course":
 {"courseId":5,
@@ -11909,7 +11909,7 @@
 ,
 
 {"scheduleId":230,
-"class":
+"classe":
 {"classeId":98,
 "course":
 {"courseId":5,
@@ -11961,7 +11961,7 @@
 ,
 
 {"scheduleId":231,
-"class":
+"classe":
 {"classeId":83,
 "course":
 {"courseId":1,
@@ -12013,7 +12013,7 @@
 ,
 
 {"scheduleId":232,
-"class":
+"classe":
 {"classeId":83,
 "course":
 {"courseId":1,
@@ -12065,7 +12065,7 @@
 ,
 
 {"scheduleId":233,
-"class":
+"classe":
 {"classeId":87,
 "course":
 {"courseId":2,
@@ -12117,7 +12117,7 @@
 ,
 
 {"scheduleId":234,
-"class":
+"classe":
 {"classeId":87,
 "course":
 {"courseId":2,
@@ -12169,7 +12169,7 @@
 ,
 
 {"scheduleId":235,
-"class":
+"classe":
 {"classeId":91,
 "course":
 {"courseId":3,
@@ -12221,7 +12221,7 @@
 ,
 
 {"scheduleId":236,
-"class":
+"classe":
 {"classeId":91,
 "course":
 {"courseId":3,
@@ -12273,7 +12273,7 @@
 ,
 
 {"scheduleId":237,
-"class":
+"classe":
 {"classeId":95,
 "course":
 {"courseId":4,
@@ -12325,7 +12325,7 @@
 ,
 
 {"scheduleId":238,
-"class":
+"classe":
 {"classeId":95,
 "course":
 {"courseId":4,
@@ -12377,7 +12377,7 @@
 ,
 
 {"scheduleId":239,
-"class":
+"classe":
 {"classeId":99,
 "course":
 {"courseId":5,
@@ -12429,7 +12429,7 @@
 ,
 
 {"scheduleId":240,
-"class":
+"classe":
 {"classeId":99,
 "course":
 {"courseId":5,
@@ -12481,7 +12481,7 @@
 ,
 
 {"scheduleId":241,
-"class":
+"classe":
 {"classeId":84,
 "course":
 {"courseId":1,
@@ -12533,7 +12533,7 @@
 ,
 
 {"scheduleId":242,
-"class":
+"classe":
 {"classeId":84,
 "course":
 {"courseId":1,
@@ -12585,7 +12585,7 @@
 ,
 
 {"scheduleId":243,
-"class":
+"classe":
 {"classeId":88,
 "course":
 {"courseId":2,
@@ -12637,7 +12637,7 @@
 ,
 
 {"scheduleId":244,
-"class":
+"classe":
 {"classeId":88,
 "course":
 {"courseId":2,
@@ -12689,7 +12689,7 @@
 ,
 
 {"scheduleId":245,
-"class":
+"classe":
 {"classeId":92,
 "course":
 {"courseId":3,
@@ -12741,7 +12741,7 @@
 ,
 
 {"scheduleId":246,
-"class":
+"classe":
 {"classeId":92,
 "course":
 {"courseId":3,
@@ -12793,7 +12793,7 @@
 ,
 
 {"scheduleId":247,
-"class":
+"classe":
 {"classeId":96,
 "course":
 {"courseId":4,
@@ -12845,7 +12845,7 @@
 ,
 
 {"scheduleId":248,
-"class":
+"classe":
 {"classeId":96,
 "course":
 {"courseId":4,
@@ -12897,7 +12897,7 @@
 ,
 
 {"scheduleId":249,
-"class":
+"classe":
 {"classeId":100,
 "course":
 {"courseId":5,
@@ -12949,7 +12949,7 @@
 ,
 
 {"scheduleId":250,
-"class":
+"classe":
 {"classeId":100,
 "course":
 {"courseId":5,
@@ -13001,7 +13001,7 @@
 ,
 
 {"scheduleId":251,
-"class":
+"classe":
 {"classeId":101,
 "course":
 {"courseId":6,
@@ -13053,7 +13053,7 @@
 ,
 
 {"scheduleId":252,
-"class":
+"classe":
 {"classeId":101,
 "course":
 {"courseId":6,
@@ -13105,7 +13105,7 @@
 ,
 
 {"scheduleId":253,
-"class":
+"classe":
 {"classeId":101,
 "course":
 {"courseId":6,
@@ -13157,7 +13157,7 @@
 ,
 
 {"scheduleId":254,
-"class":
+"classe":
 {"classeId":105,
 "course":
 {"courseId":7,
@@ -13209,7 +13209,7 @@
 ,
 
 {"scheduleId":255,
-"class":
+"classe":
 {"classeId":105,
 "course":
 {"courseId":7,
@@ -13261,7 +13261,7 @@
 ,
 
 {"scheduleId":256,
-"class":
+"classe":
 {"classeId":105,
 "course":
 {"courseId":7,
@@ -13313,7 +13313,7 @@
 ,
 
 {"scheduleId":257,
-"class":
+"classe":
 {"classeId":109,
 "course":
 {"courseId":8,
@@ -13365,7 +13365,7 @@
 ,
 
 {"scheduleId":258,
-"class":
+"classe":
 {"classeId":109,
 "course":
 {"courseId":8,
@@ -13417,7 +13417,7 @@
 ,
 
 {"scheduleId":259,
-"class":
+"classe":
 {"classeId":109,
 "course":
 {"courseId":8,
@@ -13469,7 +13469,7 @@
 ,
 
 {"scheduleId":260,
-"class":
+"classe":
 {"classeId":113,
 "course":
 {"courseId":9,
@@ -13521,7 +13521,7 @@
 ,
 
 {"scheduleId":261,
-"class":
+"classe":
 {"classeId":113,
 "course":
 {"courseId":9,
@@ -13573,7 +13573,7 @@
 ,
 
 {"scheduleId":262,
-"class":
+"classe":
 {"classeId":113,
 "course":
 {"courseId":9,
@@ -13625,7 +13625,7 @@
 ,
 
 {"scheduleId":263,
-"class":
+"classe":
 {"classeId":117,
 "course":
 {"courseId":10,
@@ -13677,7 +13677,7 @@
 ,
 
 {"scheduleId":264,
-"class":
+"classe":
 {"classeId":117,
 "course":
 {"courseId":10,
@@ -13729,7 +13729,7 @@
 ,
 
 {"scheduleId":265,
-"class":
+"classe":
 {"classeId":117,
 "course":
 {"courseId":10,
@@ -13781,7 +13781,7 @@
 ,
 
 {"scheduleId":266,
-"class":
+"classe":
 {"classeId":102,
 "course":
 {"courseId":6,
@@ -13833,7 +13833,7 @@
 ,
 
 {"scheduleId":267,
-"class":
+"classe":
 {"classeId":102,
 "course":
 {"courseId":6,
@@ -13885,7 +13885,7 @@
 ,
 
 {"scheduleId":268,
-"class":
+"classe":
 {"classeId":102,
 "course":
 {"courseId":6,
@@ -13937,7 +13937,7 @@
 ,
 
 {"scheduleId":269,
-"class":
+"classe":
 {"classeId":106,
 "course":
 {"courseId":7,
@@ -13989,7 +13989,7 @@
 ,
 
 {"scheduleId":270,
-"class":
+"classe":
 {"classeId":106,
 "course":
 {"courseId":7,
@@ -14041,7 +14041,7 @@
 ,
 
 {"scheduleId":271,
-"class":
+"classe":
 {"classeId":106,
 "course":
 {"courseId":7,
@@ -14093,7 +14093,7 @@
 ,
 
 {"scheduleId":272,
-"class":
+"classe":
 {"classeId":110,
 "course":
 {"courseId":8,
@@ -14145,7 +14145,7 @@
 ,
 
 {"scheduleId":273,
-"class":
+"classe":
 {"classeId":110,
 "course":
 {"courseId":8,
@@ -14197,7 +14197,7 @@
 ,
 
 {"scheduleId":274,
-"class":
+"classe":
 {"classeId":110,
 "course":
 {"courseId":8,
@@ -14249,7 +14249,7 @@
 ,
 
 {"scheduleId":275,
-"class":
+"classe":
 {"classeId":114,
 "course":
 {"courseId":9,
@@ -14301,7 +14301,7 @@
 ,
 
 {"scheduleId":276,
-"class":
+"classe":
 {"classeId":114,
 "course":
 {"courseId":9,
@@ -14353,7 +14353,7 @@
 ,
 
 {"scheduleId":277,
-"class":
+"classe":
 {"classeId":114,
 "course":
 {"courseId":9,
@@ -14405,7 +14405,7 @@
 ,
 
 {"scheduleId":278,
-"class":
+"classe":
 {"classeId":118,
 "course":
 {"courseId":10,
@@ -14457,7 +14457,7 @@
 ,
 
 {"scheduleId":279,
-"class":
+"classe":
 {"classeId":118,
 "course":
 {"courseId":10,
@@ -14509,7 +14509,7 @@
 ,
 
 {"scheduleId":280,
-"class":
+"classe":
 {"classeId":118,
 "course":
 {"courseId":10,
@@ -14561,7 +14561,7 @@
 ,
 
 {"scheduleId":281,
-"class":
+"classe":
 {"classeId":103,
 "course":
 {"courseId":6,
@@ -14613,7 +14613,7 @@
 ,
 
 {"scheduleId":282,
-"class":
+"classe":
 {"classeId":103,
 "course":
 {"courseId":6,
@@ -14665,7 +14665,7 @@
 ,
 
 {"scheduleId":283,
-"class":
+"classe":
 {"classeId":107,
 "course":
 {"courseId":7,
@@ -14717,7 +14717,7 @@
 ,
 
 {"scheduleId":284,
-"class":
+"classe":
 {"classeId":107,
 "course":
 {"courseId":7,
@@ -14769,7 +14769,7 @@
 ,
 
 {"scheduleId":285,
-"class":
+"classe":
 {"classeId":111,
 "course":
 {"courseId":8,
@@ -14821,7 +14821,7 @@
 ,
 
 {"scheduleId":286,
-"class":
+"classe":
 {"classeId":111,
 "course":
 {"courseId":8,
@@ -14873,7 +14873,7 @@
 ,
 
 {"scheduleId":287,
-"class":
+"classe":
 {"classeId":115,
 "course":
 {"courseId":9,
@@ -14925,7 +14925,7 @@
 ,
 
 {"scheduleId":288,
-"class":
+"classe":
 {"classeId":115,
 "course":
 {"courseId":9,
@@ -14977,7 +14977,7 @@
 ,
 
 {"scheduleId":289,
-"class":
+"classe":
 {"classeId":119,
 "course":
 {"courseId":10,
@@ -15029,7 +15029,7 @@
 ,
 
 {"scheduleId":290,
-"class":
+"classe":
 {"classeId":119,
 "course":
 {"courseId":10,
@@ -15081,7 +15081,7 @@
 ,
 
 {"scheduleId":291,
-"class":
+"classe":
 {"classeId":104,
 "course":
 {"courseId":6,
@@ -15133,7 +15133,7 @@
 ,
 
 {"scheduleId":292,
-"class":
+"classe":
 {"classeId":104,
 "course":
 {"courseId":6,
@@ -15185,7 +15185,7 @@
 ,
 
 {"scheduleId":293,
-"class":
+"classe":
 {"classeId":108,
 "course":
 {"courseId":7,
@@ -15237,7 +15237,7 @@
 ,
 
 {"scheduleId":294,
-"class":
+"classe":
 {"classeId":108,
 "course":
 {"courseId":7,
@@ -15289,7 +15289,7 @@
 ,
 
 {"scheduleId":295,
-"class":
+"classe":
 {"classeId":112,
 "course":
 {"courseId":8,
@@ -15341,7 +15341,7 @@
 ,
 
 {"scheduleId":296,
-"class":
+"classe":
 {"classeId":112,
 "course":
 {"courseId":8,
@@ -15393,7 +15393,7 @@
 ,
 
 {"scheduleId":297,
-"class":
+"classe":
 {"classeId":116,
 "course":
 {"courseId":9,
@@ -15445,7 +15445,7 @@
 ,
 
 {"scheduleId":298,
-"class":
+"classe":
 {"classeId":116,
 "course":
 {"courseId":9,
@@ -15497,7 +15497,7 @@
 ,
 
 {"scheduleId":299,
-"class":
+"classe":
 {"classeId":120,
 "course":
 {"courseId":10,
@@ -15549,7 +15549,7 @@
 ,
 
 {"scheduleId":300,
-"class":
+"classe":
 {"classeId":120,
 "course":
 {"courseId":10,
@@ -15601,7 +15601,7 @@
 ,
 
 {"scheduleId":301,
-"class":
+"classe":
 {"classeId":121,
 "course":
 {"courseId":11,
@@ -15653,7 +15653,7 @@
 ,
 
 {"scheduleId":302,
-"class":
+"classe":
 {"classeId":121,
 "course":
 {"courseId":11,
@@ -15705,7 +15705,7 @@
 ,
 
 {"scheduleId":303,
-"class":
+"classe":
 {"classeId":121,
 "course":
 {"courseId":11,
@@ -15757,7 +15757,7 @@
 ,
 
 {"scheduleId":304,
-"class":
+"classe":
 {"classeId":125,
 "course":
 {"courseId":12,
@@ -15809,7 +15809,7 @@
 ,
 
 {"scheduleId":305,
-"class":
+"classe":
 {"classeId":125,
 "course":
 {"courseId":12,
@@ -15861,7 +15861,7 @@
 ,
 
 {"scheduleId":306,
-"class":
+"classe":
 {"classeId":125,
 "course":
 {"courseId":12,
@@ -15913,7 +15913,7 @@
 ,
 
 {"scheduleId":307,
-"class":
+"classe":
 {"classeId":129,
 "course":
 {"courseId":13,
@@ -15965,7 +15965,7 @@
 ,
 
 {"scheduleId":308,
-"class":
+"classe":
 {"classeId":129,
 "course":
 {"courseId":13,
@@ -16017,7 +16017,7 @@
 ,
 
 {"scheduleId":309,
-"class":
+"classe":
 {"classeId":129,
 "course":
 {"courseId":13,
@@ -16069,7 +16069,7 @@
 ,
 
 {"scheduleId":310,
-"class":
+"classe":
 {"classeId":133,
 "course":
 {"courseId":14,
@@ -16121,7 +16121,7 @@
 ,
 
 {"scheduleId":311,
-"class":
+"classe":
 {"classeId":133,
 "course":
 {"courseId":14,
@@ -16173,7 +16173,7 @@
 ,
 
 {"scheduleId":312,
-"class":
+"classe":
 {"classeId":133,
 "course":
 {"courseId":14,
@@ -16225,7 +16225,7 @@
 ,
 
 {"scheduleId":313,
-"class":
+"classe":
 {"classeId":137,
 "course":
 {"courseId":15,
@@ -16277,7 +16277,7 @@
 ,
 
 {"scheduleId":314,
-"class":
+"classe":
 {"classeId":137,
 "course":
 {"courseId":15,
@@ -16329,7 +16329,7 @@
 ,
 
 {"scheduleId":315,
-"class":
+"classe":
 {"classeId":137,
 "course":
 {"courseId":15,
@@ -16381,7 +16381,7 @@
 ,
 
 {"scheduleId":316,
-"class":
+"classe":
 {"classeId":122,
 "course":
 {"courseId":11,
@@ -16433,7 +16433,7 @@
 ,
 
 {"scheduleId":317,
-"class":
+"classe":
 {"classeId":122,
 "course":
 {"courseId":11,
@@ -16485,7 +16485,7 @@
 ,
 
 {"scheduleId":318,
-"class":
+"classe":
 {"classeId":122,
 "course":
 {"courseId":11,
@@ -16537,7 +16537,7 @@
 ,
 
 {"scheduleId":319,
-"class":
+"classe":
 {"classeId":126,
 "course":
 {"courseId":12,
@@ -16589,7 +16589,7 @@
 ,
 
 {"scheduleId":320,
-"class":
+"classe":
 {"classeId":126,
 "course":
 {"courseId":12,
@@ -16641,7 +16641,7 @@
 ,
 
 {"scheduleId":321,
-"class":
+"classe":
 {"classeId":126,
 "course":
 {"courseId":12,
@@ -16693,7 +16693,7 @@
 ,
 
 {"scheduleId":322,
-"class":
+"classe":
 {"classeId":130,
 "course":
 {"courseId":13,
@@ -16745,7 +16745,7 @@
 ,
 
 {"scheduleId":323,
-"class":
+"classe":
 {"classeId":130,
 "course":
 {"courseId":13,
@@ -16797,7 +16797,7 @@
 ,
 
 {"scheduleId":324,
-"class":
+"classe":
 {"classeId":130,
 "course":
 {"courseId":13,
@@ -16849,7 +16849,7 @@
 ,
 
 {"scheduleId":325,
-"class":
+"classe":
 {"classeId":134,
 "course":
 {"courseId":14,
@@ -16901,7 +16901,7 @@
 ,
 
 {"scheduleId":326,
-"class":
+"classe":
 {"classeId":134,
 "course":
 {"courseId":14,
@@ -16953,7 +16953,7 @@
 ,
 
 {"scheduleId":327,
-"class":
+"classe":
 {"classeId":134,
 "course":
 {"courseId":14,
@@ -17005,7 +17005,7 @@
 ,
 
 {"scheduleId":328,
-"class":
+"classe":
 {"classeId":138,
 "course":
 {"courseId":15,
@@ -17057,7 +17057,7 @@
 ,
 
 {"scheduleId":329,
-"class":
+"classe":
 {"classeId":138,
 "course":
 {"courseId":15,
@@ -17109,7 +17109,7 @@
 ,
 
 {"scheduleId":330,
-"class":
+"classe":
 {"classeId":138,
 "course":
 {"courseId":15,
@@ -17161,7 +17161,7 @@
 ,
 
 {"scheduleId":331,
-"class":
+"classe":
 {"classeId":123,
 "course":
 {"courseId":11,
@@ -17213,7 +17213,7 @@
 ,
 
 {"scheduleId":332,
-"class":
+"classe":
 {"classeId":123,
 "course":
 {"courseId":11,
@@ -17265,7 +17265,7 @@
 ,
 
 {"scheduleId":333,
-"class":
+"classe":
 {"classeId":127,
 "course":
 {"courseId":12,
@@ -17317,7 +17317,7 @@
 ,
 
 {"scheduleId":334,
-"class":
+"classe":
 {"classeId":127,
 "course":
 {"courseId":12,
@@ -17369,7 +17369,7 @@
 ,
 
 {"scheduleId":335,
-"class":
+"classe":
 {"classeId":131,
 "course":
 {"courseId":13,
@@ -17421,7 +17421,7 @@
 ,
 
 {"scheduleId":336,
-"class":
+"classe":
 {"classeId":131,
 "course":
 {"courseId":13,
@@ -17473,7 +17473,7 @@
 ,
 
 {"scheduleId":337,
-"class":
+"classe":
 {"classeId":135,
 "course":
 {"courseId":14,
@@ -17525,7 +17525,7 @@
 ,
 
 {"scheduleId":338,
-"class":
+"classe":
 {"classeId":135,
 "course":
 {"courseId":14,
@@ -17577,7 +17577,7 @@
 ,
 
 {"scheduleId":339,
-"class":
+"classe":
 {"classeId":139,
 "course":
 {"courseId":15,
@@ -17629,7 +17629,7 @@
 ,
 
 {"scheduleId":340,
-"class":
+"classe":
 {"classeId":139,
 "course":
 {"courseId":15,
@@ -17681,7 +17681,7 @@
 ,
 
 {"scheduleId":341,
-"class":
+"classe":
 {"classeId":124,
 "course":
 {"courseId":11,
@@ -17733,7 +17733,7 @@
 ,
 
 {"scheduleId":342,
-"class":
+"classe":
 {"classeId":124,
 "course":
 {"courseId":11,
@@ -17785,7 +17785,7 @@
 ,
 
 {"scheduleId":343,
-"class":
+"classe":
 {"classeId":128,
 "course":
 {"courseId":12,
@@ -17837,7 +17837,7 @@
 ,
 
 {"scheduleId":344,
-"class":
+"classe":
 {"classeId":128,
 "course":
 {"courseId":12,
@@ -17889,7 +17889,7 @@
 ,
 
 {"scheduleId":345,
-"class":
+"classe":
 {"classeId":132,
 "course":
 {"courseId":13,
@@ -17941,7 +17941,7 @@
 ,
 
 {"scheduleId":346,
-"class":
+"classe":
 {"classeId":132,
 "course":
 {"courseId":13,
@@ -17993,7 +17993,7 @@
 ,
 
 {"scheduleId":347,
-"class":
+"classe":
 {"classeId":136,
 "course":
 {"courseId":14,
@@ -18045,7 +18045,7 @@
 ,
 
 {"scheduleId":348,
-"class":
+"classe":
 {"classeId":136,
 "course":
 {"courseId":14,
@@ -18097,7 +18097,7 @@
 ,
 
 {"scheduleId":349,
-"class":
+"classe":
 {"classeId":140,
 "course":
 {"courseId":15,
@@ -18149,7 +18149,7 @@
 ,
 
 {"scheduleId":350,
-"class":
+"classe":
 {"classeId":140,
 "course":
 {"courseId":15,
@@ -18201,7 +18201,7 @@
 ,
 
 {"scheduleId":351,
-"class":
+"classe":
 {"classeId":141,
 "course":
 {"courseId":16,
@@ -18253,7 +18253,7 @@
 ,
 
 {"scheduleId":352,
-"class":
+"classe":
 {"classeId":141,
 "course":
 {"courseId":16,
@@ -18305,7 +18305,7 @@
 ,
 
 {"scheduleId":353,
-"class":
+"classe":
 {"classeId":141,
 "course":
 {"courseId":16,
@@ -18357,7 +18357,7 @@
 ,
 
 {"scheduleId":354,
-"class":
+"classe":
 {"classeId":145,
 "course":
 {"courseId":17,
@@ -18409,7 +18409,7 @@
 ,
 
 {"scheduleId":355,
-"class":
+"classe":
 {"classeId":145,
 "course":
 {"courseId":17,
@@ -18461,7 +18461,7 @@
 ,
 
 {"scheduleId":356,
-"class":
+"classe":
 {"classeId":145,
 "course":
 {"courseId":17,
@@ -18513,7 +18513,7 @@
 ,
 
 {"scheduleId":357,
-"class":
+"classe":
 {"classeId":149,
 "course":
 {"courseId":18,
@@ -18565,7 +18565,7 @@
 ,
 
 {"scheduleId":358,
-"class":
+"classe":
 {"classeId":149,
 "course":
 {"courseId":18,
@@ -18617,7 +18617,7 @@
 ,
 
 {"scheduleId":359,
-"class":
+"classe":
 {"classeId":149,
 "course":
 {"courseId":18,
@@ -18669,7 +18669,7 @@
 ,
 
 {"scheduleId":360,
-"class":
+"classe":
 {"classeId":153,
 "course":
 {"courseId":19,
@@ -18721,7 +18721,7 @@
 ,
 
 {"scheduleId":361,
-"class":
+"classe":
 {"classeId":153,
 "course":
 {"courseId":19,
@@ -18773,7 +18773,7 @@
 ,
 
 {"scheduleId":362,
-"class":
+"classe":
 {"classeId":153,
 "course":
 {"courseId":19,
@@ -18825,7 +18825,7 @@
 ,
 
 {"scheduleId":363,
-"class":
+"classe":
 {"classeId":157,
 "course":
 {"courseId":20,
@@ -18877,7 +18877,7 @@
 ,
 
 {"scheduleId":364,
-"class":
+"classe":
 {"classeId":157,
 "course":
 {"courseId":20,
@@ -18929,7 +18929,7 @@
 ,
 
 {"scheduleId":365,
-"class":
+"classe":
 {"classeId":157,
 "course":
 {"courseId":20,
@@ -18981,7 +18981,7 @@
 ,
 
 {"scheduleId":366,
-"class":
+"classe":
 {"classeId":142,
 "course":
 {"courseId":16,
@@ -19033,7 +19033,7 @@
 ,
 
 {"scheduleId":367,
-"class":
+"classe":
 {"classeId":142,
 "course":
 {"courseId":16,
@@ -19085,7 +19085,7 @@
 ,
 
 {"scheduleId":368,
-"class":
+"classe":
 {"classeId":142,
 "course":
 {"courseId":16,
@@ -19137,7 +19137,7 @@
 ,
 
 {"scheduleId":369,
-"class":
+"classe":
 {"classeId":146,
 "course":
 {"courseId":17,
@@ -19189,7 +19189,7 @@
 ,
 
 {"scheduleId":370,
-"class":
+"classe":
 {"classeId":146,
 "course":
 {"courseId":17,
@@ -19241,7 +19241,7 @@
 ,
 
 {"scheduleId":371,
-"class":
+"classe":
 {"classeId":146,
 "course":
 {"courseId":17,
@@ -19293,7 +19293,7 @@
 ,
 
 {"scheduleId":372,
-"class":
+"classe":
 {"classeId":150,
 "course":
 {"courseId":18,
@@ -19345,7 +19345,7 @@
 ,
 
 {"scheduleId":373,
-"class":
+"classe":
 {"classeId":150,
 "course":
 {"courseId":18,
@@ -19397,7 +19397,7 @@
 ,
 
 {"scheduleId":374,
-"class":
+"classe":
 {"classeId":150,
 "course":
 {"courseId":18,
@@ -19449,7 +19449,7 @@
 ,
 
 {"scheduleId":375,
-"class":
+"classe":
 {"classeId":154,
 "course":
 {"courseId":19,
@@ -19501,7 +19501,7 @@
 ,
 
 {"scheduleId":376,
-"class":
+"classe":
 {"classeId":154,
 "course":
 {"courseId":19,
@@ -19553,7 +19553,7 @@
 ,
 
 {"scheduleId":377,
-"class":
+"classe":
 {"classeId":154,
 "course":
 {"courseId":19,
@@ -19605,7 +19605,7 @@
 ,
 
 {"scheduleId":378,
-"class":
+"classe":
 {"classeId":158,
 "course":
 {"courseId":20,
@@ -19657,7 +19657,7 @@
 ,
 
 {"scheduleId":379,
-"class":
+"classe":
 {"classeId":158,
 "course":
 {"courseId":20,
@@ -19709,7 +19709,7 @@
 ,
 
 {"scheduleId":380,
-"class":
+"classe":
 {"classeId":158,
 "course":
 {"courseId":20,
@@ -19761,7 +19761,7 @@
 ,
 
 {"scheduleId":381,
-"class":
+"classe":
 {"classeId":143,
 "course":
 {"courseId":16,
@@ -19813,7 +19813,7 @@
 ,
 
 {"scheduleId":382,
-"class":
+"classe":
 {"classeId":143,
 "course":
 {"courseId":16,
@@ -19865,7 +19865,7 @@
 ,
 
 {"scheduleId":383,
-"class":
+"classe":
 {"classeId":147,
 "course":
 {"courseId":17,
@@ -19917,7 +19917,7 @@
 ,
 
 {"scheduleId":384,
-"class":
+"classe":
 {"classeId":147,
 "course":
 {"courseId":17,
@@ -19969,7 +19969,7 @@
 ,
 
 {"scheduleId":385,
-"class":
+"classe":
 {"classeId":151,
 "course":
 {"courseId":18,
@@ -20021,7 +20021,7 @@
 ,
 
 {"scheduleId":386,
-"class":
+"classe":
 {"classeId":151,
 "course":
 {"courseId":18,
@@ -20073,7 +20073,7 @@
 ,
 
 {"scheduleId":387,
-"class":
+"classe":
 {"classeId":155,
 "course":
 {"courseId":19,
@@ -20125,7 +20125,7 @@
 ,
 
 {"scheduleId":388,
-"class":
+"classe":
 {"classeId":155,
 "course":
 {"courseId":19,
@@ -20177,7 +20177,7 @@
 ,
 
 {"scheduleId":389,
-"class":
+"classe":
 {"classeId":159,
 "course":
 {"courseId":20,
@@ -20229,7 +20229,7 @@
 ,
 
 {"scheduleId":390,
-"class":
+"classe":
 {"classeId":159,
 "course":
 {"courseId":20,
@@ -20281,7 +20281,7 @@
 ,
 
 {"scheduleId":391,
-"class":
+"classe":
 {"classeId":144,
 "course":
 {"courseId":16,
@@ -20333,7 +20333,7 @@
 ,
 
 {"scheduleId":392,
-"class":
+"classe":
 {"classeId":144,
 "course":
 {"courseId":16,
@@ -20385,7 +20385,7 @@
 ,
 
 {"scheduleId":393,
-"class":
+"classe":
 {"classeId":148,
 "course":
 {"courseId":17,
@@ -20437,7 +20437,7 @@
 ,
 
 {"scheduleId":394,
-"class":
+"classe":
 {"classeId":148,
 "course":
 {"courseId":17,
@@ -20489,7 +20489,7 @@
 ,
 
 {"scheduleId":395,
-"class":
+"classe":
 {"classeId":152,
 "course":
 {"courseId":18,
@@ -20541,7 +20541,7 @@
 ,
 
 {"scheduleId":396,
-"class":
+"classe":
 {"classeId":152,
 "course":
 {"courseId":18,
@@ -20593,7 +20593,7 @@
 ,
 
 {"scheduleId":397,
-"class":
+"classe":
 {"classeId":156,
 "course":
 {"courseId":19,
@@ -20645,7 +20645,7 @@
 ,
 
 {"scheduleId":398,
-"class":
+"classe":
 {"classeId":156,
 "course":
 {"courseId":19,
@@ -20697,7 +20697,7 @@
 ,
 
 {"scheduleId":399,
-"class":
+"classe":
 {"classeId":160,
 "course":
 {"courseId":20,
@@ -20749,7 +20749,7 @@
 ,
 
 {"scheduleId":400,
-"class":
+"classe":
 {"classeId":160,
 "course":
 {"courseId":20,
@@ -20801,7 +20801,7 @@
 ,
 
 {"scheduleId":401,
-"class":
+"classe":
 {"classeId":161,
 "course":
 {"courseId":1,
@@ -20853,7 +20853,7 @@
 ,
 
 {"scheduleId":402,
-"class":
+"classe":
 {"classeId":161,
 "course":
 {"courseId":1,
@@ -20905,7 +20905,7 @@
 ,
 
 {"scheduleId":403,
-"class":
+"classe":
 {"classeId":161,
 "course":
 {"courseId":1,
@@ -20957,7 +20957,7 @@
 ,
 
 {"scheduleId":404,
-"class":
+"classe":
 {"classeId":165,
 "course":
 {"courseId":2,
@@ -21009,7 +21009,7 @@
 ,
 
 {"scheduleId":405,
-"class":
+"classe":
 {"classeId":165,
 "course":
 {"courseId":2,
@@ -21061,7 +21061,7 @@
 ,
 
 {"scheduleId":406,
-"class":
+"classe":
 {"classeId":165,
 "course":
 {"courseId":2,
@@ -21113,7 +21113,7 @@
 ,
 
 {"scheduleId":407,
-"class":
+"classe":
 {"classeId":169,
 "course":
 {"courseId":3,
@@ -21165,7 +21165,7 @@
 ,
 
 {"scheduleId":408,
-"class":
+"classe":
 {"classeId":169,
 "course":
 {"courseId":3,
@@ -21217,7 +21217,7 @@
 ,
 
 {"scheduleId":409,
-"class":
+"classe":
 {"classeId":169,
 "course":
 {"courseId":3,
@@ -21269,7 +21269,7 @@
 ,
 
 {"scheduleId":410,
-"class":
+"classe":
 {"classeId":173,
 "course":
 {"courseId":4,
@@ -21321,7 +21321,7 @@
 ,
 
 {"scheduleId":411,
-"class":
+"classe":
 {"classeId":173,
 "course":
 {"courseId":4,
@@ -21373,7 +21373,7 @@
 ,
 
 {"scheduleId":412,
-"class":
+"classe":
 {"classeId":173,
 "course":
 {"courseId":4,
@@ -21425,7 +21425,7 @@
 ,
 
 {"scheduleId":413,
-"class":
+"classe":
 {"classeId":177,
 "course":
 {"courseId":5,
@@ -21477,7 +21477,7 @@
 ,
 
 {"scheduleId":414,
-"class":
+"classe":
 {"classeId":177,
 "course":
 {"courseId":5,
@@ -21529,7 +21529,7 @@
 ,
 
 {"scheduleId":415,
-"class":
+"classe":
 {"classeId":177,
 "course":
 {"courseId":5,
@@ -21581,7 +21581,7 @@
 ,
 
 {"scheduleId":416,
-"class":
+"classe":
 {"classeId":162,
 "course":
 {"courseId":1,
@@ -21633,7 +21633,7 @@
 ,
 
 {"scheduleId":417,
-"class":
+"classe":
 {"classeId":162,
 "course":
 {"courseId":1,
@@ -21685,7 +21685,7 @@
 ,
 
 {"scheduleId":418,
-"class":
+"classe":
 {"classeId":162,
 "course":
 {"courseId":1,
@@ -21737,7 +21737,7 @@
 ,
 
 {"scheduleId":419,
-"class":
+"classe":
 {"classeId":166,
 "course":
 {"courseId":2,
@@ -21789,7 +21789,7 @@
 ,
 
 {"scheduleId":420,
-"class":
+"classe":
 {"classeId":166,
 "course":
 {"courseId":2,
@@ -21841,7 +21841,7 @@
 ,
 
 {"scheduleId":421,
-"class":
+"classe":
 {"classeId":166,
 "course":
 {"courseId":2,
@@ -21893,7 +21893,7 @@
 ,
 
 {"scheduleId":422,
-"class":
+"classe":
 {"classeId":170,
 "course":
 {"courseId":3,
@@ -21945,7 +21945,7 @@
 ,
 
 {"scheduleId":423,
-"class":
+"classe":
 {"classeId":170,
 "course":
 {"courseId":3,
@@ -21997,7 +21997,7 @@
 ,
 
 {"scheduleId":424,
-"class":
+"classe":
 {"classeId":170,
 "course":
 {"courseId":3,
@@ -22049,7 +22049,7 @@
 ,
 
 {"scheduleId":425,
-"class":
+"classe":
 {"classeId":174,
 "course":
 {"courseId":4,
@@ -22101,7 +22101,7 @@
 ,
 
 {"scheduleId":426,
-"class":
+"classe":
 {"classeId":174,
 "course":
 {"courseId":4,
@@ -22153,7 +22153,7 @@
 ,
 
 {"scheduleId":427,
-"class":
+"classe":
 {"classeId":174,
 "course":
 {"courseId":4,
@@ -22205,7 +22205,7 @@
 ,
 
 {"scheduleId":428,
-"class":
+"classe":
 {"classeId":178,
 "course":
 {"courseId":5,
@@ -22257,7 +22257,7 @@
 ,
 
 {"scheduleId":429,
-"class":
+"classe":
 {"classeId":178,
 "course":
 {"courseId":5,
@@ -22309,7 +22309,7 @@
 ,
 
 {"scheduleId":430,
-"class":
+"classe":
 {"classeId":178,
 "course":
 {"courseId":5,
@@ -22361,7 +22361,7 @@
 ,
 
 {"scheduleId":431,
-"class":
+"classe":
 {"classeId":163,
 "course":
 {"courseId":1,
@@ -22413,7 +22413,7 @@
 ,
 
 {"scheduleId":432,
-"class":
+"classe":
 {"classeId":163,
 "course":
 {"courseId":1,
@@ -22465,7 +22465,7 @@
 ,
 
 {"scheduleId":433,
-"class":
+"classe":
 {"classeId":167,
 "course":
 {"courseId":2,
@@ -22517,7 +22517,7 @@
 ,
 
 {"scheduleId":434,
-"class":
+"classe":
 {"classeId":167,
 "course":
 {"courseId":2,
@@ -22569,7 +22569,7 @@
 ,
 
 {"scheduleId":435,
-"class":
+"classe":
 {"classeId":171,
 "course":
 {"courseId":3,
@@ -22621,7 +22621,7 @@
 ,
 
 {"scheduleId":436,
-"class":
+"classe":
 {"classeId":171,
 "course":
 {"courseId":3,
@@ -22673,7 +22673,7 @@
 ,
 
 {"scheduleId":437,
-"class":
+"classe":
 {"classeId":175,
 "course":
 {"courseId":4,
@@ -22725,7 +22725,7 @@
 ,
 
 {"scheduleId":438,
-"class":
+"classe":
 {"classeId":175,
 "course":
 {"courseId":4,
@@ -22777,7 +22777,7 @@
 ,
 
 {"scheduleId":439,
-"class":
+"classe":
 {"classeId":179,
 "course":
 {"courseId":5,
@@ -22829,7 +22829,7 @@
 ,
 
 {"scheduleId":440,
-"class":
+"classe":
 {"classeId":179,
 "course":
 {"courseId":5,
@@ -22881,7 +22881,7 @@
 ,
 
 {"scheduleId":441,
-"class":
+"classe":
 {"classeId":164,
 "course":
 {"courseId":1,
@@ -22933,7 +22933,7 @@
 ,
 
 {"scheduleId":442,
-"class":
+"classe":
 {"classeId":164,
 "course":
 {"courseId":1,
@@ -22985,7 +22985,7 @@
 ,
 
 {"scheduleId":443,
-"class":
+"classe":
 {"classeId":168,
 "course":
 {"courseId":2,
@@ -23037,7 +23037,7 @@
 ,
 
 {"scheduleId":444,
-"class":
+"classe":
 {"classeId":168,
 "course":
 {"courseId":2,
@@ -23089,7 +23089,7 @@
 ,
 
 {"scheduleId":445,
-"class":
+"classe":
 {"classeId":172,
 "course":
 {"courseId":3,
@@ -23141,7 +23141,7 @@
 ,
 
 {"scheduleId":446,
-"class":
+"classe":
 {"classeId":172,
 "course":
 {"courseId":3,
@@ -23193,7 +23193,7 @@
 ,
 
 {"scheduleId":447,
-"class":
+"classe":
 {"classeId":176,
 "course":
 {"courseId":4,
@@ -23245,7 +23245,7 @@
 ,
 
 {"scheduleId":448,
-"class":
+"classe":
 {"classeId":176,
 "course":
 {"courseId":4,
@@ -23297,7 +23297,7 @@
 ,
 
 {"scheduleId":449,
-"class":
+"classe":
 {"classeId":180,
 "course":
 {"courseId":5,
@@ -23349,7 +23349,7 @@
 ,
 
 {"scheduleId":450,
-"class":
+"classe":
 {"classeId":180,
 "course":
 {"courseId":5,
@@ -23401,7 +23401,7 @@
 ,
 
 {"scheduleId":451,
-"class":
+"classe":
 {"classeId":181,
 "course":
 {"courseId":6,
@@ -23453,7 +23453,7 @@
 ,
 
 {"scheduleId":452,
-"class":
+"classe":
 {"classeId":181,
 "course":
 {"courseId":6,
@@ -23505,7 +23505,7 @@
 ,
 
 {"scheduleId":453,
-"class":
+"classe":
 {"classeId":181,
 "course":
 {"courseId":6,
@@ -23557,7 +23557,7 @@
 ,
 
 {"scheduleId":454,
-"class":
+"classe":
 {"classeId":185,
 "course":
 {"courseId":7,
@@ -23609,7 +23609,7 @@
 ,
 
 {"scheduleId":455,
-"class":
+"classe":
 {"classeId":185,
 "course":
 {"courseId":7,
@@ -23661,7 +23661,7 @@
 ,
 
 {"scheduleId":456,
-"class":
+"classe":
 {"classeId":185,
 "course":
 {"courseId":7,
@@ -23713,7 +23713,7 @@
 ,
 
 {"scheduleId":457,
-"class":
+"classe":
 {"classeId":189,
 "course":
 {"courseId":8,
@@ -23765,7 +23765,7 @@
 ,
 
 {"scheduleId":458,
-"class":
+"classe":
 {"classeId":189,
 "course":
 {"courseId":8,
@@ -23817,7 +23817,7 @@
 ,
 
 {"scheduleId":459,
-"class":
+"classe":
 {"classeId":189,
 "course":
 {"courseId":8,
@@ -23869,7 +23869,7 @@
 ,
 
 {"scheduleId":460,
-"class":
+"classe":
 {"classeId":193,
 "course":
 {"courseId":9,
@@ -23921,7 +23921,7 @@
 ,
 
 {"scheduleId":461,
-"class":
+"classe":
 {"classeId":193,
 "course":
 {"courseId":9,
@@ -23973,7 +23973,7 @@
 ,
 
 {"scheduleId":462,
-"class":
+"classe":
 {"classeId":193,
 "course":
 {"courseId":9,
@@ -24025,7 +24025,7 @@
 ,
 
 {"scheduleId":463,
-"class":
+"classe":
 {"classeId":197,
 "course":
 {"courseId":10,
@@ -24077,7 +24077,7 @@
 ,
 
 {"scheduleId":464,
-"class":
+"classe":
 {"classeId":197,
 "course":
 {"courseId":10,
@@ -24129,7 +24129,7 @@
 ,
 
 {"scheduleId":465,
-"class":
+"classe":
 {"classeId":197,
 "course":
 {"courseId":10,
@@ -24181,7 +24181,7 @@
 ,
 
 {"scheduleId":466,
-"class":
+"classe":
 {"classeId":182,
 "course":
 {"courseId":6,
@@ -24233,7 +24233,7 @@
 ,
 
 {"scheduleId":467,
-"class":
+"classe":
 {"classeId":182,
 "course":
 {"courseId":6,
@@ -24285,7 +24285,7 @@
 ,
 
 {"scheduleId":468,
-"class":
+"classe":
 {"classeId":182,
 "course":
 {"courseId":6,
@@ -24337,7 +24337,7 @@
 ,
 
 {"scheduleId":469,
-"class":
+"classe":
 {"classeId":186,
 "course":
 {"courseId":7,
@@ -24389,7 +24389,7 @@
 ,
 
 {"scheduleId":470,
-"class":
+"classe":
 {"classeId":186,
 "course":
 {"courseId":7,
@@ -24441,7 +24441,7 @@
 ,
 
 {"scheduleId":471,
-"class":
+"classe":
 {"classeId":186,
 "course":
 {"courseId":7,
@@ -24493,7 +24493,7 @@
 ,
 
 {"scheduleId":472,
-"class":
+"classe":
 {"classeId":190,
 "course":
 {"courseId":8,
@@ -24545,7 +24545,7 @@
 ,
 
 {"scheduleId":473,
-"class":
+"classe":
 {"classeId":190,
 "course":
 {"courseId":8,
@@ -24597,7 +24597,7 @@
 ,
 
 {"scheduleId":474,
-"class":
+"classe":
 {"classeId":190,
 "course":
 {"courseId":8,
@@ -24649,7 +24649,7 @@
 ,
 
 {"scheduleId":475,
-"class":
+"classe":
 {"classeId":194,
 "course":
 {"courseId":9,
@@ -24701,7 +24701,7 @@
 ,
 
 {"scheduleId":476,
-"class":
+"classe":
 {"classeId":194,
 "course":
 {"courseId":9,
@@ -24753,7 +24753,7 @@
 ,
 
 {"scheduleId":477,
-"class":
+"classe":
 {"classeId":194,
 "course":
 {"courseId":9,
@@ -24805,7 +24805,7 @@
 ,
 
 {"scheduleId":478,
-"class":
+"classe":
 {"classeId":198,
 "course":
 {"courseId":10,
@@ -24857,7 +24857,7 @@
 ,
 
 {"scheduleId":479,
-"class":
+"classe":
 {"classeId":198,
 "course":
 {"courseId":10,
@@ -24909,7 +24909,7 @@
 ,
 
 {"scheduleId":480,
-"class":
+"classe":
 {"classeId":198,
 "course":
 {"courseId":10,
@@ -24961,7 +24961,7 @@
 ,
 
 {"scheduleId":481,
-"class":
+"classe":
 {"classeId":183,
 "course":
 {"courseId":6,
@@ -25013,7 +25013,7 @@
 ,
 
 {"scheduleId":482,
-"class":
+"classe":
 {"classeId":183,
 "course":
 {"courseId":6,
@@ -25065,7 +25065,7 @@
 ,
 
 {"scheduleId":483,
-"class":
+"classe":
 {"classeId":187,
 "course":
 {"courseId":7,
@@ -25117,7 +25117,7 @@
 ,
 
 {"scheduleId":484,
-"class":
+"classe":
 {"classeId":187,
 "course":
 {"courseId":7,
@@ -25169,7 +25169,7 @@
 ,
 
 {"scheduleId":485,
-"class":
+"classe":
 {"classeId":191,
 "course":
 {"courseId":8,
@@ -25221,7 +25221,7 @@
 ,
 
 {"scheduleId":486,
-"class":
+"classe":
 {"classeId":191,
 "course":
 {"courseId":8,
@@ -25273,7 +25273,7 @@
 ,
 
 {"scheduleId":487,
-"class":
+"classe":
 {"classeId":195,
 "course":
 {"courseId":9,
@@ -25325,7 +25325,7 @@
 ,
 
 {"scheduleId":488,
-"class":
+"classe":
 {"classeId":195,
 "course":
 {"courseId":9,
@@ -25377,7 +25377,7 @@
 ,
 
 {"scheduleId":489,
-"class":
+"classe":
 {"classeId":199,
 "course":
 {"courseId":10,
@@ -25429,7 +25429,7 @@
 ,
 
 {"scheduleId":490,
-"class":
+"classe":
 {"classeId":199,
 "course":
 {"courseId":10,
@@ -25481,7 +25481,7 @@
 ,
 
 {"scheduleId":491,
-"class":
+"classe":
 {"classeId":184,
 "course":
 {"courseId":6,
@@ -25533,7 +25533,7 @@
 ,
 
 {"scheduleId":492,
-"class":
+"classe":
 {"classeId":184,
 "course":
 {"courseId":6,
@@ -25585,7 +25585,7 @@
 ,
 
 {"scheduleId":493,
-"class":
+"classe":
 {"classeId":188,
 "course":
 {"courseId":7,
@@ -25637,7 +25637,7 @@
 ,
 
 {"scheduleId":494,
-"class":
+"classe":
 {"classeId":188,
 "course":
 {"courseId":7,
@@ -25689,7 +25689,7 @@
 ,
 
 {"scheduleId":495,
-"class":
+"classe":
 {"classeId":192,
 "course":
 {"courseId":8,
@@ -25741,7 +25741,7 @@
 ,
 
 {"scheduleId":496,
-"class":
+"classe":
 {"classeId":192,
 "course":
 {"courseId":8,
@@ -25793,7 +25793,7 @@
 ,
 
 {"scheduleId":497,
-"class":
+"classe":
 {"classeId":196,
 "course":
 {"courseId":9,
@@ -25845,7 +25845,7 @@
 ,
 
 {"scheduleId":498,
-"class":
+"classe":
 {"classeId":196,
 "course":
 {"courseId":9,
@@ -25897,7 +25897,7 @@
 ,
 
 {"scheduleId":499,
-"class":
+"classe":
 {"classeId":200,
 "course":
 {"courseId":10,
@@ -25949,7 +25949,7 @@
 ,
 
 {"scheduleId":500,
-"class":
+"classe":
 {"classeId":200,
 "course":
 {"courseId":10,
