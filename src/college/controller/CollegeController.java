@@ -186,4 +186,24 @@ public class CollegeController {
        }
        return elements;
    }
+   
+   public static List<Classe> getClassesOfInstructor(Employee instructor) {
+	   List<Classe> list = new ArrayList<>();
+	   for (Classe c: College.getClasses()) {
+		   if (c.getInstructor().getEmployeeId() == instructor.getEmployeeId()) {
+			   list.add(c);
+		   }
+	   }
+	   return list;
+   }
+   
+   public static List<StudentClass> getStudentClassesOfClasse(Classe classe) {
+	   List<StudentClass> list = new ArrayList<>();
+	   for (StudentClass sc: College.getStudentClasses()) {
+		   if (sc.getClasse().getClasseId() == classe.getClasseId()) {
+			   list.add(sc);
+		   }
+	   }
+	   return list;
+   }
 }

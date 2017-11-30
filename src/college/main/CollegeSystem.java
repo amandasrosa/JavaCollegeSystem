@@ -6,9 +6,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 import college.controller.CollegeController;
-import college.model.College;
-import college.model.Employee;
-import college.model.Function;
+import college.model.*;
 
 public class CollegeSystem {
 	private static Scanner scanner;
@@ -132,31 +130,161 @@ public class CollegeSystem {
 		while (true) {
 			System.out.println("\nWelcome " + instructor.getName() + "!\n");
 			System.out.println("Menu");
-			System.out.println("1: View classes");
-			System.out.println("2: View students");
+			System.out.println("1: View profile");
+			System.out.println("2: View classes");
 			System.out.println("0: Return to main menu");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2");
 			switch (option) {
 				case "0":
 					return;
 				case "1":
-					viewClasses();
+					viewProfile();
 					break;
 				case "2":
-					viewStudents();
+					viewClasses();
 					break;
 			}
 		}
 	}
 
-	private static void viewClasses() {
-		System.out.println("\nClasses of instructor " + instructor.getName() + ":\n");
+	private static void viewProfile() {
+		System.out.println("\nInstructor profile:\n");
+		System.out.println("Employee ID: " + instructor.getEmployeeId());
+		System.out.println("Name: " + instructor.getName());
+		System.out.println("Main function: " + instructor.getMainFunction());
+		System.out.println("Start date: " + Util.convertDateToString(instructor.getStartDate()));
+		System.out.println("\nPress <ENTER> to return to instructor menu:");
 		waitEnter();
 	}
+
+	private static void viewClasses() {
+		while (true) {
+			System.out.println("\nClasses of instructor " + instructor.getName() + ":\n");
+			List<Classe> classes = CollegeController.getClassesOfInstructor(instructor);
+			if (classes.isEmpty()) {
+				System.out.println("This instructor teaches no classes in the moment.");
+				System.out.println("\nPress <ENTER> to return to instructor menu:");
+				waitEnter();
+				return;
+			}
+			for (Classe c: classes) {
+				System.out.println("Class ID " + c.getClasseId() + ": " + c.getCourse().getName());				
+			}
+			while (true) {
+				System.out.println("\nType a class ID to see details or 0 to return to instructor menu:");
+				String option = readInput();
+				if (option.equals("0")) {
+					return;
+				}
+				int id = 0;
+				try {
+					id = Integer.parseInt(option);
+				} catch (NumberFormatException e) {
+					System.out.println("Invalid number. Try again.");
+					continue;
+				}
+				Classe classe = null;
+				for (Classe c: classes) {
+					if (c.getClasseId() == id) {
+						classe = c;
+						break;
+					}
+				}
+				if (classe == null) {
+					System.out.println("This instructor has no class with the ID " + option);
+				} else {
+					classDetails(classe);
+					break;
+				}
+			}
+		}
+	}
 	
-	private static void viewStudents() {
-		System.out.println("\nStudents of instructor " + instructor.getName() + ":\n");
-		waitEnter();
+	private static void classDetails(Classe classe) {
+		while (true) {
+			System.out.println("\nClass details:\n");
+			System.out.println("Class ID: " + classe.getClasseId());
+			System.out.println("Credits: " + classe.getCourse().getCreditHour());
+			System.out.println("Course: " + classe.getCourse().getName());
+			System.out.println("Program: " + classe.getCourse().getProgram().getName());
+			System.out.println("Department: " + classe.getCourse().getProgram().getDepartment().getName());
+			System.out.println("Students:\n");
+			for (StudentClass sc: CollegeController.getStudentClassesOfClasse(classe)) {
+				System.out.println("ID: " + sc.getStudent().getStudentId() + " - "
+						+ sc.getStudent().getName());
+			}
+			while (true) {
+				System.out.println("\nType a student ID to see the activities grades or 0 to return to classes menu:");
+				String option = readInput();
+				if (option.equals("0")) {
+					return;
+				}
+				int id = 0;
+				try {
+					id = Integer.parseInt(option);
+				} catch (NumberFormatException e) {
+					System.out.println("Invalid number. Try again.");
+					continue;
+				}
+				StudentClass studentClass = null;
+				for (StudentClass sc: CollegeController.getStudentClassesOfClasse(classe)) {
+					if (sc.getStudent().getStudentId() == id) {
+						studentClass = sc;
+						break;
+					}
+				}
+				if (studentClass == null) {
+					System.out.println("In this class, there is no student with the ID " + option);
+				} else {
+					viewStudentGrades(studentClass);
+					break;
+				}
+			}
+		}
+	}
+
+	private static void viewStudentGrades(StudentClass studentClass) {
+		while (true) {
+			System.out.println("\nStudent " + studentClass.getStudent().getName() + " grades:\n");
+			System.out.println("1 - Assignment: " + studentClass.getGradeAssig());
+			System.out.println("2 - Test: " + studentClass.getGradeTest());
+			System.out.println("3 - Project: " + studentClass.getGradeProject() + "\n");
+			String option = readInputWithMessage(
+					"Type an activity number to change the grade or 0 to return to class details:",
+					"0", "1", "2", "3");
+			if (option.equals("0")) {
+				return;
+			}
+			while (true) {
+				System.out.println("Type the new grade between 0 and 100 or -1 to cancel:");
+				String newGrade = readInput();
+				if (newGrade.equals("-1")) {
+					break;
+				}
+				int grade = 0;
+				try {
+					grade = Integer.parseInt(newGrade);
+					if (grade < 0 || grade > 100) {
+						throw new NumberFormatException();
+					}
+				} catch (NumberFormatException e) {
+					System.out.println("Invalid number. Try again.");
+					continue;
+				}
+				switch (option) {
+					case "1":
+						studentClass.setGradeAssig(grade);
+						break;
+					case "2":
+						studentClass.setGradeTest(grade);
+						break;
+					case "3":
+						studentClass.setGradeProject(grade);
+						break;
+				}
+				break;
+			}
+		}
 	}
 
 	private static String readInput() {
