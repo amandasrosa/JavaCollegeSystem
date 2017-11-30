@@ -19,8 +19,8 @@ public class CollegeSystem {
 		
 		while (true) {
 			System.out.println("\nCollege System\n");
-			System.out.println("1: Load Files");
-			System.out.println("2: Save Data in Files");
+			System.out.println("1: Load data files");
+			System.out.println("2: Save data files");
 			System.out.println("3: Generate reports");
 			System.out.println("4: Instructor login");
 			System.out.println("0: Exit");
@@ -50,7 +50,7 @@ public class CollegeSystem {
 		System.out.println("\nLoading data files...");
 		College college = new College();
 		college.createCollege();
-		System.out.println("\nFiles loaded. Press <ENTER> to return to the main menu:");
+		System.out.println("\nFiles loaded. Press <ENTER> to return to main menu:");
 		waitEnter();
 	}
 	
@@ -67,13 +67,11 @@ public class CollegeSystem {
 			System.out.println("3: Top 3 courses with worst average grades");
 			System.out.println("4: Number of classes per instructor per weekday");
 			System.out.println("4: Top student with best average grade by program");
-			System.out.println("0: Exit");
+			System.out.println("0: Return to main menu");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2", "3", "4", "5");
 			switch (option) {
 				case "0":
-					System.out.println("End of program.");
-					System.exit(0);
-					break;
+					return;
 				case "1":
 					CollegeController.instructorsByClasses();
 					break;
@@ -94,6 +92,7 @@ public class CollegeSystem {
 	}
 	
 	private static void login() {
+		instructor = null;
 		while (true) {
 			System.out.println("\nType the instructor's employee ID or 0 to return to the main menu:\n");
 			String option = readInput();
@@ -101,8 +100,8 @@ public class CollegeSystem {
 				return;
 			}
 			if (College.getEmployees() == null) {
-				System.out.println("There is no data in the system. Please load the files first.");
-				System.out.println("Press <ENTER> to return to the main menu:");
+				System.out.println("There is no data in the system. Please load the data files first.");
+				System.out.println("Press <ENTER> to return to main menu:");
 				waitEnter();
 				return;
 			}
@@ -120,17 +119,22 @@ public class CollegeSystem {
 					break;
 				}
 			}
-			instructorMenu();
+			if (instructor == null) {
+				System.out.println("There is no intructor with the employee ID " + option);
+			} else {
+				instructorMenu();
+				return;
+			}
 		}
 	}
 
 	private static void instructorMenu() {
 		while (true) {
-			System.out.println("\nInstructor Menu\n");
+			System.out.println("\nWelcome " + instructor.getName() + "!\n");
 			System.out.println("Menu");
 			System.out.println("1: View classes");
 			System.out.println("2: View students");
-			System.out.println("0: Return to instructor's selection");
+			System.out.println("0: Return to main menu");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2");
 			switch (option) {
 				case "0":
@@ -146,12 +150,12 @@ public class CollegeSystem {
 	}
 
 	private static void viewClasses() {
-		System.out.println("\nClasses of instructor <Instructor>:");
+		System.out.println("\nClasses of instructor " + instructor.getName() + ":\n");
 		waitEnter();
 	}
 	
 	private static void viewStudents() {
-		System.out.println("\nStudents of instructor <Instructor>:");
+		System.out.println("\nStudents of instructor " + instructor.getName() + ":\n");
 		waitEnter();
 	}
 
