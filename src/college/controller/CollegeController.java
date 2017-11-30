@@ -84,7 +84,7 @@ public class CollegeController {
        }
        Map<Course, Integer> treeMap = 
     		     elements.entrySet().stream()
-    		    .sorted(Entry.comparingByValue())
+    		    .sorted(Map.Entry.<Course, Integer> comparingByValue().reversed())
     		    .collect(Collectors.toMap(Entry::getKey, Entry::getValue,
     		                              (e1, e2) -> e1, LinkedHashMap::new));
        //rodar o for só tres vezes
@@ -152,7 +152,7 @@ public class CollegeController {
     	   elements = getAverageGradeOfEachSudentInProgram(p);
            Map<Student, Integer> treeMap = 
       		     elements.entrySet().stream()
-      		    .sorted(Entry.comparingByValue())
+      		    .sorted(Map.Entry.<Student, Integer> comparingByValue().reversed())
       		    .collect(Collectors.toMap(Entry::getKey, Entry::getValue,
       		                              (e1, e2) -> e1, LinkedHashMap::new));
            //rodar o for só uma vez
