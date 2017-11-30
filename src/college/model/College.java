@@ -18,55 +18,28 @@ public class College {
 	private static List<GradeAux> grades = null;
 
 	public void createCollege () {
-		createEmployees();
-		createDepartments();
-		createDepartmentEmployees();
-		createPrograms();
-		createCourses();
-		createClasses();
-		createStudents();
-		createStudentClasses();
-		createSchedules();
-		createGrades();
-	}
-	public void createEmployees () {
 		employees = fileHandler.parseEmployeeJson();
-	}
-	public void createDepartments () {
 		departments = fileHandler.parseDepartmentJson();
-	}
-	public void createDepartmentEmployees () {
 		departmentEmployees = fileHandler.parseDepartmentEmployeeJson();
-	}
-	public void createPrograms () {
 		programs = fileHandler.parseProgramJson();
-	}
-	public void createCourses () {
 		courses = fileHandler.parseCourseJson();
-	}
-	public void createClasses () {
 		classes = fileHandler.parseClasseJson();
-	}
-	public void createAndInsertClasse () {
-
-	}
-	public void createStudents () {
 		students = fileHandler.parseStudentJson();
-	}
-	public void createStudentClasses () {
 		studentClasses = fileHandler.parseStudentClassJson();
-	}
-	public void createAndInsertStudentClass () {
-
-	}
-	public void createSchedules () {
 		schedules = fileHandler.parseScheduleJson();
-	}
-	public void createAndInsertSchedule () {
-
-	}
-	public void createGrades () {
 		grades = fileHandler.parseGradeAuxJson();
+	}
+	public void saveCollege () {
+		fileHandler.saveEmployeeToJson(employees);
+		fileHandler.saveDepartmentToJson(departments);
+		fileHandler.saveDepartmentEmployeeToJson(departmentEmployees);
+		fileHandler.saveProgramToJson(programs);
+		fileHandler.saveCourseToJson(courses);
+		fileHandler.saveClasseToJson(classes);
+		fileHandler.saveStudentToJson(students);
+		fileHandler.saveStudentClassToJson(studentClasses);
+		fileHandler.saveScheduleToJson(schedules);
+		fileHandler.saveGradeAuxToJson(grades);
 	}
 	public static List<Employee> getEmployees() {
 		return employees;

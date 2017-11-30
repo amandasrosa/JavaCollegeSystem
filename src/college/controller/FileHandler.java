@@ -149,14 +149,13 @@ public class FileHandler {
 
 		return list;
 	}
-	
+
 	//Object To Json
-	public static void getEmployeeToJson() {
-		List<Employee> employees = College.getEmployees();
+	public void saveEmployeeToJson(List<Employee> employees) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/employee.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/employee.json")) {
+		String path = getClass().getResource("/files/employee.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"employee\": [\n\n");
 			for (Employee e : employees) {
 				gson.toJson(e, writer);
@@ -164,15 +163,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getDepartmentToJson() {
-		List<Department> departments = College.getDepartments();
+	public void saveDepartmentToJson(List<Department> departments) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/department.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/department.json")) {
+		String path = getClass().getResource("/files/department.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"department\": [\n\n");
 			for (Department d : departments) {
 				gson.toJson(d, writer);
@@ -180,15 +178,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getDepartmentEmployeeToJson() {
-		List<DepartmentEmployee> departmentEmployees = College.getDepartmentEmployees();
+	public void saveDepartmentEmployeeToJson(List<DepartmentEmployee> departmentEmployees) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/departmentEmployee.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/departmentEmployee.json")) {
+		String path = getClass().getResource("/files/departmentEmployee.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"departmentEmployee\": [\n\n");
 			for (DepartmentEmployee de : departmentEmployees) {
 				gson.toJson(de, writer);
@@ -196,15 +193,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getProgramToJson() {
-		List<Program> programs = College.getPrograms();
+	public void saveProgramToJson(List<Program> programs) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/program.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/program.json")) {
+		String path = getClass().getResource("/files/program.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"program\": [\n\n");
 			for (Program p : programs) {
 				gson.toJson(p, writer);
@@ -212,15 +208,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getCourseToJson() {
-		List<Course> courses = College.getCourses();
+	public void saveCourseToJson(List<Course> courses) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/course.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/course.json")) {
+		String path = getClass().getResource("/files/course.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"course\": [\n\n");
 			for (Course c : courses) {
 				gson.toJson(c, writer);
@@ -228,15 +223,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getClasseToJson() {
-		List<Classe> classes = College.getClasses();
+	public void saveClasseToJson(List<Classe> classes) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/classe.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/classe.json")) {
+		String path = getClass().getResource("/files/classe.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"classe\": [\n\n");
 			for (Classe c : classes) {
 				gson.toJson(c, writer);
@@ -244,15 +238,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getStudentToJson() {
-		List<Student> students = College.getStudents();
+	public void saveStudentToJson(List<Student> students) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/student.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/student.json")) {
+		String path = getClass().getResource("/files/student.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"student\": [\n\n");
 			for (Student s : students) {
 				gson.toJson(s, writer);
@@ -260,31 +253,29 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getStudentClassToJson() {
-		List<StudentClass> studentClasss = College.getStudentClasses();
+	public void saveStudentClassToJson(List<StudentClass> studentClasses) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/studentClass.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/studentClass.json")) {
+		String path = getClass().getResource("/files/studentClass.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"studentClass\": [\n\n");
-			for (StudentClass sc : studentClasss) {
+			for (StudentClass sc : studentClasses) {
 				gson.toJson(sc, writer);
 				writer.write(",\n\n");
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}
-	public static void getScheduleToJson() {
-		List<Schedule> schedules = College.getSchedules();
+	public void saveScheduleToJson(List<Schedule> schedules) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/schedule.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/schedule.json")) {
+		String path = getClass().getResource("/files/schedule.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"schedule\": [\n\n");
 			for (Schedule s : schedules) {
 				gson.toJson(s, writer);
@@ -292,15 +283,14 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
+			e.printStackTrace();
+		}
 	}	
-	public static void getGradeAuxToJson() {
-		List<GradeAux> gradeAuxs = College.getGrades();
+	public void saveGradeAuxToJson(List<GradeAux> gradeAuxs) {
 		Gson gson = new Gson();
-		//String path = getClass().getResource("/newFiles/gradeAux.json").getPath();
-		//String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
-		try (FileWriter writer = new FileWriter ("/Users/araceliteixeira/eclipse-workspace/JavaCollegeSystem/bin/files/gradeAux.json")) {
+		String path = getClass().getResource("/files/gradeAux.json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
+		try (FileWriter writer = new FileWriter (osAppropriatePath)) {
 			writer.write("{\"gradeAux\": [\n\n");
 			for (GradeAux g : gradeAuxs) {
 				gson.toJson(g, writer);
@@ -308,20 +298,7 @@ public class FileHandler {
 			}
 			writer.write("]}");
 		} catch (IOException e) {
-            e.printStackTrace();
-        }
-	}
-	
-	public static void objectsToJson () {
-		getEmployeeToJson();
-		getDepartmentToJson();
-		getDepartmentEmployeeToJson();
-		getProgramToJson();
-		getCourseToJson();
-		getClasseToJson();
-		getStudentToJson();
-		getStudentClassToJson();
-		getScheduleToJson();
-		getGradeAuxToJson();
+			e.printStackTrace();
+		}
 	}
 }

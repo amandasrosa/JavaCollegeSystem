@@ -55,7 +55,8 @@ public class CollegeSystem {
 	
 	private static void saveFiles() {
 		System.out.println("\nSaving data files...");
-		FileHandler.objectsToJson();
+		College college = new College();
+		college.saveCollege();
 		System.out.println("\nData saved. Press <ENTER> to return to main menu:");
 		waitEnter();
 	}
