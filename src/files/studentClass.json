@@ -36014,8 +36014,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":622,
@@ -36072,8 +36072,8 @@
 "status":"Active"}
 ,
 "gradeAssig":40,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":623,
@@ -36130,8 +36130,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":624,
@@ -36188,8 +36188,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":625,
@@ -36246,8 +36246,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":626,
@@ -36304,8 +36304,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":627,
@@ -36362,8 +36362,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":628,
@@ -36420,8 +36420,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":629,
@@ -36478,8 +36478,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":630,
@@ -36536,8 +36536,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":631,
@@ -36594,8 +36594,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":632,
@@ -36652,8 +36652,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":633,
@@ -36710,8 +36710,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":634,
@@ -36768,8 +36768,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":635,
@@ -36826,8 +36826,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":636,
@@ -36884,8 +36884,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":637,
@@ -36942,8 +36942,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":638,
@@ -37000,8 +37000,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":639,
@@ -37058,8 +37058,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":640,
@@ -37116,8 +37116,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":641,
@@ -37173,9 +37173,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":642,
@@ -37231,9 +37231,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":643,
@@ -37289,9 +37289,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":644,
@@ -37347,9 +37347,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":645,
@@ -37405,9 +37405,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":646,
@@ -37463,9 +37463,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":647,
@@ -37521,9 +37521,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":648,
@@ -37579,9 +37579,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":649,
@@ -37637,9 +37637,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":650,
@@ -37695,9 +37695,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":651,
@@ -37753,9 +37753,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":652,
@@ -37811,9 +37811,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":653,
@@ -37869,9 +37869,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":654,
@@ -37927,9 +37927,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":655,
@@ -37985,9 +37985,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":656,
@@ -38043,9 +38043,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":657,
@@ -38101,9 +38101,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":658,
@@ -38159,9 +38159,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":659,
@@ -38217,9 +38217,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":660,
@@ -38275,9 +38275,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":661,
@@ -38333,9 +38333,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":662,
@@ -38391,9 +38391,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":663,
@@ -38449,9 +38449,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":664,
@@ -38507,9 +38507,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":665,
@@ -38565,9 +38565,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":666,
@@ -38623,9 +38623,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":667,
@@ -38681,9 +38681,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":668,
@@ -38739,9 +38739,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":669,
@@ -38797,9 +38797,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":670,
@@ -38855,9 +38855,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":671,
@@ -38913,9 +38913,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":672,
@@ -38971,9 +38971,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":673,
@@ -39029,9 +39029,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":674,
@@ -39087,9 +39087,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":675,
@@ -39145,9 +39145,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":676,
@@ -39203,9 +39203,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":677,
@@ -39261,9 +39261,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":678,
@@ -39319,9 +39319,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":679,
@@ -39377,9 +39377,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":680,
@@ -39435,9 +39435,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":681,
@@ -39493,9 +39493,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":682,
@@ -39551,9 +39551,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":683,
@@ -39609,9 +39609,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":684,
@@ -39667,9 +39667,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":685,
@@ -39725,9 +39725,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":686,
@@ -39783,9 +39783,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":687,
@@ -39841,9 +39841,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":688,
@@ -39899,9 +39899,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":689,
@@ -39957,9 +39957,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":690,
@@ -40015,9 +40015,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":691,
@@ -40073,9 +40073,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":692,
@@ -40131,9 +40131,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":693,
@@ -40189,9 +40189,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":694,
@@ -40247,9 +40247,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":695,
@@ -40305,9 +40305,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":696,
@@ -40363,9 +40363,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":697,
@@ -40421,9 +40421,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":698,
@@ -40479,9 +40479,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":699,
@@ -40537,9 +40537,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":700,
@@ -40595,9 +40595,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":701,
@@ -41814,8 +41814,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":722,
@@ -41872,8 +41872,8 @@
 "status":"Active"}
 ,
 "gradeAssig":40,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":723,
@@ -41930,8 +41930,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":724,
@@ -41988,8 +41988,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":725,
@@ -42046,8 +42046,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":726,
@@ -42104,8 +42104,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":727,
@@ -42162,8 +42162,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":728,
@@ -42220,8 +42220,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":729,
@@ -42278,8 +42278,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":730,
@@ -42336,8 +42336,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":731,
@@ -42394,8 +42394,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":732,
@@ -42452,8 +42452,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":733,
@@ -42510,8 +42510,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":734,
@@ -42568,8 +42568,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":735,
@@ -42626,8 +42626,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":736,
@@ -42684,8 +42684,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":737,
@@ -42742,8 +42742,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":738,
@@ -42800,8 +42800,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":739,
@@ -42858,8 +42858,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":740,
@@ -42916,8 +42916,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":741,
@@ -42973,9 +42973,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":742,
@@ -43031,9 +43031,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":743,
@@ -43089,9 +43089,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":744,
@@ -43147,9 +43147,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":745,
@@ -43205,9 +43205,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":746,
@@ -43263,9 +43263,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":747,
@@ -43321,9 +43321,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":748,
@@ -43379,9 +43379,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":749,
@@ -43437,9 +43437,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":750,
@@ -43495,9 +43495,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":751,
@@ -43553,9 +43553,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":752,
@@ -43611,9 +43611,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":753,
@@ -43669,9 +43669,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":754,
@@ -43727,9 +43727,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":755,
@@ -43785,9 +43785,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":756,
@@ -43843,9 +43843,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":757,
@@ -43901,9 +43901,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":758,
@@ -43959,9 +43959,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":759,
@@ -44017,9 +44017,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":760,
@@ -44075,9 +44075,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":761,
@@ -44133,9 +44133,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":762,
@@ -44191,9 +44191,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":763,
@@ -44249,9 +44249,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":764,
@@ -44307,9 +44307,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":765,
@@ -44365,9 +44365,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":766,
@@ -44423,9 +44423,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":767,
@@ -44481,9 +44481,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":768,
@@ -44539,9 +44539,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":769,
@@ -44597,9 +44597,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":770,
@@ -44655,9 +44655,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":771,
@@ -44713,9 +44713,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":772,
@@ -44771,9 +44771,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":773,
@@ -44829,9 +44829,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":774,
@@ -44887,9 +44887,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":775,
@@ -44945,9 +44945,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":776,
@@ -45003,9 +45003,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":777,
@@ -45061,9 +45061,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":778,
@@ -45119,9 +45119,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":779,
@@ -45177,9 +45177,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":780,
@@ -45235,9 +45235,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":781,
@@ -45293,9 +45293,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":782,
@@ -45351,9 +45351,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":783,
@@ -45409,9 +45409,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":784,
@@ -45467,9 +45467,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":785,
@@ -45525,9 +45525,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":786,
@@ -45583,9 +45583,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":787,
@@ -45641,9 +45641,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":788,
@@ -45699,9 +45699,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":789,
@@ -45757,9 +45757,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":790,
@@ -45815,9 +45815,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":791,
@@ -45873,9 +45873,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":792,
@@ -45931,9 +45931,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":793,
@@ -45989,9 +45989,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":794,
@@ -46047,9 +46047,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":795,
@@ -46105,9 +46105,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":796,
@@ -46163,9 +46163,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":797,
@@ -46221,9 +46221,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":798,
@@ -46279,9 +46279,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":799,
@@ -46337,9 +46337,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":800,
@@ -46395,9 +46395,9 @@
 "endDate":"2018-01-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":801,
@@ -47614,8 +47614,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":822,
@@ -47672,8 +47672,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":823,
@@ -47730,8 +47730,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":824,
@@ -47788,8 +47788,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":825,
@@ -47846,8 +47846,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":826,
@@ -47904,8 +47904,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":827,
@@ -47962,8 +47962,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":828,
@@ -48020,8 +48020,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":829,
@@ -48078,8 +48078,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":830,
@@ -48136,8 +48136,8 @@
 "status":"Active"}
 ,
 "gradeAssig":40,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":831,
@@ -48194,8 +48194,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":832,
@@ -48252,8 +48252,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":833,
@@ -48310,8 +48310,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":834,
@@ -48368,8 +48368,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":835,
@@ -48426,8 +48426,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":836,
@@ -48484,8 +48484,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":837,
@@ -48542,8 +48542,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":838,
@@ -48600,8 +48600,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":839,
@@ -48658,8 +48658,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":840,
@@ -48716,8 +48716,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":841,
@@ -48773,9 +48773,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":842,
@@ -48831,9 +48831,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":843,
@@ -48889,9 +48889,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":844,
@@ -48947,9 +48947,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":845,
@@ -49005,9 +49005,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":846,
@@ -49063,9 +49063,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":847,
@@ -49121,9 +49121,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":848,
@@ -49179,9 +49179,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":849,
@@ -49237,9 +49237,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":850,
@@ -49295,9 +49295,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":851,
@@ -49353,9 +49353,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":852,
@@ -49411,9 +49411,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":853,
@@ -49469,9 +49469,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":854,
@@ -49527,9 +49527,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":855,
@@ -49585,9 +49585,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":856,
@@ -49643,9 +49643,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":857,
@@ -49701,9 +49701,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":858,
@@ -49759,9 +49759,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":859,
@@ -49817,9 +49817,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":860,
@@ -49875,9 +49875,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":861,
@@ -49933,9 +49933,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":862,
@@ -49991,9 +49991,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":863,
@@ -50049,9 +50049,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":864,
@@ -50107,9 +50107,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":865,
@@ -50165,9 +50165,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":866,
@@ -50223,9 +50223,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":867,
@@ -50281,9 +50281,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":868,
@@ -50339,9 +50339,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":869,
@@ -50397,9 +50397,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":870,
@@ -50455,9 +50455,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":871,
@@ -50513,9 +50513,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":872,
@@ -50571,9 +50571,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":873,
@@ -50629,9 +50629,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":874,
@@ -50687,9 +50687,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":875,
@@ -50745,9 +50745,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":876,
@@ -50803,9 +50803,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":877,
@@ -50861,9 +50861,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":878,
@@ -50919,9 +50919,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":879,
@@ -50977,9 +50977,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":880,
@@ -51035,9 +51035,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":881,
@@ -51093,9 +51093,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":882,
@@ -51151,9 +51151,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":883,
@@ -51209,9 +51209,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":884,
@@ -51267,9 +51267,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":885,
@@ -51325,9 +51325,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":886,
@@ -51383,9 +51383,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":887,
@@ -51441,9 +51441,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":888,
@@ -51499,9 +51499,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":889,
@@ -51557,9 +51557,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":890,
@@ -51615,9 +51615,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":891,
@@ -51673,9 +51673,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":892,
@@ -51731,9 +51731,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":893,
@@ -51789,9 +51789,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":894,
@@ -51847,9 +51847,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":895,
@@ -51905,9 +51905,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":896,
@@ -51963,9 +51963,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":897,
@@ -52021,9 +52021,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":898,
@@ -52079,9 +52079,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":899,
@@ -52137,9 +52137,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":900,
@@ -52195,9 +52195,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":901,
@@ -53414,8 +53414,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":922,
@@ -53472,8 +53472,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":923,
@@ -53530,8 +53530,8 @@
 "status":"Active"}
 ,
 "gradeAssig":40,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":924,
@@ -53588,8 +53588,8 @@
 "status":"Active"}
 ,
 "gradeAssig":90,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":925,
@@ -53646,8 +53646,8 @@
 "status":"Active"}
 ,
 "gradeAssig":55,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":926,
@@ -53704,8 +53704,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":927,
@@ -53762,8 +53762,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":928,
@@ -53820,8 +53820,8 @@
 "status":"Active"}
 ,
 "gradeAssig":71,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":929,
@@ -53878,8 +53878,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":930,
@@ -53936,8 +53936,8 @@
 "status":"Active"}
 ,
 "gradeAssig":83,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":931,
@@ -53994,8 +53994,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":932,
@@ -54052,8 +54052,8 @@
 "status":"Active"}
 ,
 "gradeAssig":65,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":933,
@@ -54110,8 +54110,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":934,
@@ -54168,8 +54168,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":935,
@@ -54226,8 +54226,8 @@
 "status":"Active"}
 ,
 "gradeAssig":68,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":936,
@@ -54284,8 +54284,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":937,
@@ -54342,8 +54342,8 @@
 "status":"Active"}
 ,
 "gradeAssig":95,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":938,
@@ -54400,8 +54400,8 @@
 "status":"Active"}
 ,
 "gradeAssig":78,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":939,
@@ -54458,8 +54458,8 @@
 "status":"Active"}
 ,
 "gradeAssig":75,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":940,
@@ -54516,8 +54516,8 @@
 "status":"Active"}
 ,
 "gradeAssig":61,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":941,
@@ -54573,9 +54573,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":942,
@@ -54631,9 +54631,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":943,
@@ -54689,9 +54689,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":944,
@@ -54747,9 +54747,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":945,
@@ -54805,9 +54805,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":946,
@@ -54863,9 +54863,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":947,
@@ -54921,9 +54921,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":948,
@@ -54979,9 +54979,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":949,
@@ -55037,9 +55037,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":950,
@@ -55095,9 +55095,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":951,
@@ -55153,9 +55153,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":952,
@@ -55211,9 +55211,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":953,
@@ -55269,9 +55269,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":954,
@@ -55327,9 +55327,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":955,
@@ -55385,9 +55385,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":956,
@@ -55443,9 +55443,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":957,
@@ -55501,9 +55501,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":958,
@@ -55559,9 +55559,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":959,
@@ -55617,9 +55617,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":960,
@@ -55675,9 +55675,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":961,
@@ -55733,9 +55733,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":962,
@@ -55791,9 +55791,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":963,
@@ -55849,9 +55849,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":964,
@@ -55907,9 +55907,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":965,
@@ -55965,9 +55965,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":966,
@@ -56023,9 +56023,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":967,
@@ -56081,9 +56081,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":968,
@@ -56139,9 +56139,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":969,
@@ -56197,9 +56197,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":970,
@@ -56255,9 +56255,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":971,
@@ -56313,9 +56313,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":972,
@@ -56371,9 +56371,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":973,
@@ -56429,9 +56429,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":974,
@@ -56487,9 +56487,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":975,
@@ -56545,9 +56545,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":976,
@@ -56603,9 +56603,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":977,
@@ -56661,9 +56661,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":978,
@@ -56719,9 +56719,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":979,
@@ -56777,9 +56777,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":980,
@@ -56835,9 +56835,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":981,
@@ -56893,9 +56893,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":982,
@@ -56951,9 +56951,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":983,
@@ -57009,9 +57009,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":984,
@@ -57067,9 +57067,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":985,
@@ -57125,9 +57125,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":986,
@@ -57183,9 +57183,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":987,
@@ -57241,9 +57241,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":988,
@@ -57299,9 +57299,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":989,
@@ -57357,9 +57357,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":990,
@@ -57415,9 +57415,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":991,
@@ -57473,9 +57473,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":992,
@@ -57531,9 +57531,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":993,
@@ -57589,9 +57589,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":994,
@@ -57647,9 +57647,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":995,
@@ -57705,9 +57705,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":996,
@@ -57763,9 +57763,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":997,
@@ -57821,9 +57821,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":998,
@@ -57879,9 +57879,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":999,
@@ -57937,9 +57937,9 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ,
 
 {"studentClassId":1000,
@@ -57995,7 +57995,7 @@
 "endDate":"2018-06-01",
 "status":"Active"}
 ,
-"gradeAssig":-1,
-"gradeTest":-1,
-"gradeProject":-1}
+"gradeAssig":null,
+"gradeTest":null,
+"gradeProject":null}
 ]}
