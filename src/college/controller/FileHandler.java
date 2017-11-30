@@ -21,8 +21,9 @@ public class FileHandler {
 	{
 		byte[] encoded = null;
 		String path = getClass().getResource("/files/" + filename + ".json").getPath();
+		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
 		try {
-			encoded = Files.readAllBytes(Paths.get(path));
+			encoded = Files.readAllBytes(Paths.get(osAppropriatePath));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
