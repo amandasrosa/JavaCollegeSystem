@@ -64,31 +64,38 @@ public class CollegeSystem {
 			System.out.println("2: Number of students by country");
 			System.out.println("3: Top 3 courses with worst average grades");
 			System.out.println("4: Number of classes per instructor per weekday");
-			System.out.println("4: Top student with best average grade by program");
+			System.out.println("5: Top student with best average grade by program");
 			System.out.println("0: Return to main menu");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2", "3", "4", "5");
 			switch (option) {
 				case "0":
 					return;
 				case "1":
-					CollegeController.instructorsByClasses();
+					System.out.println("\nInstructors by classes and average student grades\n");
+					System.out.println(CollegeController.instructorsByClasses());
 					break;
 				case "2":
-					CollegeController.studentsByCountry();
+					System.out.println("\nNumber of students by country\n");
+					System.out.println(CollegeController.studentsByCountry());
 					break;
 				case "3":
-					CollegeController.coursesByWorstAverage();
+					System.out.println("\nTop 3 courses with worst average grades\n");
+					System.out.println(CollegeController.coursesByWorstAverage());
 					break;
 				case "4":
-					CollegeController.classesByInscructorsPerWeek();
+					System.out.println("\nNumber of classes per instructor per weekday\n");
+					System.out.println(CollegeController.classesByInscructorsPerWeek());
 					break;
 				case "5":
-					CollegeController.studentsByBestAverage();
+					System.out.println("\nTop student with best average grade by program\n");
+					System.out.println(CollegeController.studentsByBestAverage());
 					break;
 			}
+			System.out.println("\nPress <ENTER> to return to report menu:");
+			waitEnter();
 		}
 	}
-	
+
 	private static void login() {
 		instructor = null;
 		while (true) {
