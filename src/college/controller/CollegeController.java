@@ -131,10 +131,9 @@ public class CollegeController {
        for (Schedule s : College.getSchedules()) {
            if (s.getClasse().getInstructor().getEmployeeId() == instructor.getEmployeeId()) {
                int count = 1;
-               /*if (let index = elements.index(where:) {$0.0 == s.getWeekday()})) {
-                   let e = elements.remove(at: index);
-                   count += e.1;
-               }*/
+               if (elements.containsKey(s.getWeekday())) {
+                   count = elements.get(s.getWeekday()) + 1;
+               }
                elements.put(s.getWeekday(), count);
            }
        }
