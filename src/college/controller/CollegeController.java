@@ -43,7 +43,7 @@ public class CollegeController {
 		int count = 0;;
 		for (StudentClass sc : College.getStudentClasses()) {
 			if (sc.getClasse().getClasseId() == classe.getClasseId()) {
-				if ((sc.getGradeAssig() != 0) && (sc.getGradeTest() != 0) && (sc.getGradeProject() != 0)) {
+				if ((sc.getGradeAssig() != null) && (sc.getGradeTest() != null) && (sc.getGradeProject() != null)) {
 					sum += (sc.getGradeAssig() + sc.getGradeTest() + sc.getGradeProject()) / 3;
 					count += 1;
 				}
@@ -105,7 +105,7 @@ public class CollegeController {
 		int count = 0;
 		for (StudentClass sc : College.getStudentClasses()) {
 			if (sc.getClasse().getCourse().getCourseId() == course.getCourseId()) {
-				if (sc.getGradeAssig() != 0 && sc.getGradeTest() != 0 && sc.getGradeProject() != 0) {
+				if (sc.getGradeAssig() != null && sc.getGradeTest() != null && sc.getGradeProject() != null) {
 					sum += (sc.getGradeAssig() + sc.getGradeTest() + sc.getGradeProject()) / 3;
 					count += 1;
 				}
@@ -176,7 +176,7 @@ public class CollegeController {
 				if (sc.getClasse().getCourse().getProgram().getProgramId() == program.getProgramId()
 						&& sc.getStudent().getStudentId() == s.getStudentId()) {
 					student = s;
-					if (sc.getGradeAssig() != 0 && sc.getGradeTest() != 0 && sc.getGradeProject() != 0) {
+					if (sc.getGradeAssig() != null && sc.getGradeTest() != null && sc.getGradeProject() != null) {
 						sum += (sc.getGradeAssig() + sc.getGradeTest() + sc.getGradeProject()) / 3;
 						count += 1;
 					}

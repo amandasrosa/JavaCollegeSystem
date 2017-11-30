@@ -95,7 +95,7 @@ public class CollegeSystem {
 					CollegeController.studentsByBestAverage();
 					break;
 			}
-			System.out.println("\nPress <ENTER> to return to report menu:");
+			System.out.println("Press <ENTER> to return to report menu:");
 			waitEnter();
 		}
 	}
@@ -257,9 +257,12 @@ public class CollegeSystem {
 	private static void viewStudentGrades(StudentClass studentClass) {
 		while (true) {
 			System.out.println("\nStudent " + studentClass.getStudent().getName() + " grades:\n");
-			System.out.println("1 - Assignment: " + studentClass.getGradeAssig());
-			System.out.println("2 - Test: " + studentClass.getGradeTest());
-			System.out.println("3 - Project: " + studentClass.getGradeProject() + "\n");
+			System.out.println("1 - Assignment: " + (studentClass.getGradeAssig() == null ? "<no grade>" :
+				studentClass.getGradeAssig()));
+			System.out.println("2 - Test: " + (studentClass.getGradeTest()  == null ? "<no grade>" :
+				studentClass.getGradeTest()));
+			System.out.println("3 - Project: " + (studentClass.getGradeProject()  == null ? "<no grade>" :
+				studentClass.getGradeProject()) + "\n");
 			String option = readInputWithMessage(
 					"Type an activity number to change the grade or 0 to return to class details:",
 					"0", "1", "2", "3");

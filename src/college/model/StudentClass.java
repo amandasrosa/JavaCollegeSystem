@@ -4,9 +4,9 @@ public class StudentClass {
 	private int studentClassId;
 	private Classe classe;
 	private Student student;
-	private int gradeAssig;
-	private int gradeTest;
-	private int gradeProject;
+	private Integer gradeAssig;
+	private Integer gradeTest;
+	private Integer gradeProject;
 
 	public int getStudentClassId() {
 		return studentClassId;
@@ -26,22 +26,22 @@ public class StudentClass {
 	public void setStudent(Student student) {
 		this.student = student;
 	}
-	public int getGradeAssig() {
+	public Integer getGradeAssig() {
 		return gradeAssig;
 	}
-	public void setGradeAssig(int gradeAssig) {
+	public void setGradeAssig(Integer gradeAssig) {
 		this.gradeAssig = gradeAssig;
 	}
-	public int getGradeTest() {
+	public Integer getGradeTest() {
 		return gradeTest;
 	}
-	public void setGradeTest(int gradeTest) {
+	public void setGradeTest(Integer gradeTest) {
 		this.gradeTest = gradeTest;
 	}
-	public int getGradeProject() {
+	public Integer getGradeProject() {
 		return gradeProject;
 	}
-	public void setGradeProject(int gradeProject) {
+	public void setGradeProject(Integer gradeProject) {
 		this.gradeProject = gradeProject;
 	}
 
