@@ -6,6 +6,7 @@ import java.lang.reflect.Type;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import com.google.gson.Gson;
@@ -47,7 +48,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Employee>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -58,7 +59,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Department>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -69,7 +70,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<DepartmentEmployee>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -80,7 +81,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Program>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -91,7 +92,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Course>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -102,7 +103,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Classe>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -113,7 +114,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Student>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -124,7 +125,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<StudentClass>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -135,7 +136,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<Schedule>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
@@ -146,7 +147,7 @@ public class FileHandler {
 		Gson gson = new Gson();
 		Type listType = new TypeToken<List<GradeAux>>(){}.getType();
 		list = gson.fromJson(jsonArr, listType);
-
+		list.removeAll(Collections.singleton(null));
 		return list;
 	}
 
