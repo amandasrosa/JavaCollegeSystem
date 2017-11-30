@@ -4,9 +4,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-class Util {
+public class Util {
 
-	static Date convertStringToDate(String dateString) throws ParseException {
+	public static Date convertStringToDate(String dateString) throws ParseException {
 		if (dateString == "") {
 			return new Date();
 		}
@@ -16,12 +16,20 @@ class Util {
 		return date;
 	}
 
-	static String convertDateToString(Date date) {
+	public static String convertDateToString(Date date) {
 		if (date == null) {
 			return "";
 		}
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		String stringDate = sdf.format(date);
 		return stringDate;
+	}
+	
+	public static String padRight(String s, int n) {
+	     return String.format("%1$-" + n + "s", s);  
+	}
+	
+	public static String padRight(int s, int n) {
+	     return String.format("%1$-" + n + "s", s);  
 	}
 }

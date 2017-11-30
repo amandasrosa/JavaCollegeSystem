@@ -1,7 +1,10 @@
 package college.controller;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
 
 import college.model.Classe;
 import college.model.College;
@@ -9,24 +12,23 @@ import college.model.Country;
 import college.model.Course;
 import college.model.Employee;
 import college.model.Program;
+import college.model.Schedule;
 import college.model.Student;
 import college.model.StudentClass;
+import college.model.Util;
 
 public class CollegeController {
 
-	
    //Instructors by classes and average student grades
-    
-   
    public static String instructorsByClasses() {
-       String report = ""; //Util.pad("Instructor", 18) + " | " + Util.pad("Class Id",10) + " | " + Util.pad("Course", 40) + " | Average Grade\n"
+       String report = Util.padRight("Instructor", 18) + " | " + Util.padRight("Class Id",10) + " | " + Util.padRight("Course", 40) + " | Average Grade\n";
        for (Classe c : College.getClasses()) {
            if (getAverageGradeOfClasse(c) != 0) {
                String instructor = c.getInstructor().getName();
                int classId = c.getClasseId();
                String course = c.getCourse().getName();
                int average = getAverageGradeOfClasse(c);
-               //report += Util.pad(instructor, 18) + " | " + Util.pad(classId, 10) + " | " + Util.pad(course, 40) + " | \(average) \n"
+               report += Util.padRight(instructor, 18) + " | " + Util.padRight(classId, 10) + " | " + Util.padRight(course, 40) + " | " + average + "\n";
            }
        }
        return report;
@@ -49,11 +51,9 @@ public class CollegeController {
        return sum / count;
    }
    
-   
-    //Number of students by country
-   
+   //Number of students by country
    public static String studentsByCountry() {
-       String report = "";//Util.pad("Country", 15) + "| Number of Students\n"
+       String report = Util.padRight("Country", 15) + "| Number of Students\n";
        List<Country> countries = new ArrayList<Country>();
        for (Student s : College.getStudents()) {
            if (!countries.contains(s.getOriginCountry())) {
@@ -67,24 +67,30 @@ public class CollegeController {
                    count += 1;
                }
            }
-           //report += Util.pad(String(describing: c), 15) + "| \(count)\n"
+           report += Util.padRight(c.toString(), 15) + "| " + count + "\n";
        }
        return report;
    }
    
-   
    //Top 3 courses with worst average grades
-   
    public static String coursesByWorstAverage() {
-       String report = ""; //Util.pad("Course", 40) + "| Grade\n"
-       //var elements: [(Course, Int)] = [];
+       String report = Util.padRight("Course", 40) + "| Grade\n";
+       Map<Course, Integer> elements = new HashMap<Course, Integer>();
        for (Course c : College.getCourses()) {
-           //elements.add((c, getAverageGradeOfClassesInCourse(c)));
+           elements.put(c, getAverageGradeOfClassesInCourse(c));
        }
+       //to sort
+       Map<Course, Integer> treeMap = new TreeMap<Course, Integer>(elements);
+       //for (int i : treeMap.values()) {
+           //System.out.println(i);
+       //}
        //elements = elements.sorted(by:) {$0.1 < $1.1});
-       //report += Util.pad(elements[0].0.getName(), 40) + "| \(elements[0].1)\n"
-       //report += Util.pad(elements[1].0.getName(), 40) + "| \(elements[1].1)\n"
-       //report += Util.pad(elements[2].0.getName(), 40) + "| \(elements[2].1)\n"
+       for (Map.Entry<Course, Integer> entry : treeMap.entrySet()) {
+    	   report += Util.padRight(entry.getKey().getName(), 40) + "| " + entry.getValue() +"\n";
+       }
+       //report += Util.padRight(Iterables.get(treeMap.entrySet(),0).getName(), 40) + "| " + treeMap[0] +"\n";
+       //report += Util.padRight(elements[1].0.getName(), 40) + "| \(elements[1].1)\n";
+       //report += Util.padRight(elements[2].0.getName(), 40) + "| \(elements[2].1)\n";
        return report;
    }
    
@@ -107,70 +113,77 @@ public class CollegeController {
    
    
    //Number of classes per instructor per weekday
-   
    public static String classesByInscructorsPerWeek() {
-       String report = ""; //Util.pad("Instructor", 18) + " | " + Util.pad("Weekday",12) + " | Number of classes\n"
+       String report = Util.padRight("Instructor", 18) + " | " + Util.padRight("Weekday",12) + " | Number of classes\n";
+       Map<String, Integer> elements = new HashMap<String, Integer>();
+       
        for (Employee i : College.getEmployees()) {
-           //for (e : schedulesPerInstructor(i)) {
-               //report += Util.pad(i.getName(), 18) + " | " + Util.pad(e.0, 12) + " |  \(e.1)\n"
-           //}
+    	   elements = schedulesPerInstructor(i);
+    	   for (Map.Entry<String, Integer> entry : elements.entrySet()) {
+               report += Util.padRight(i.getName(), 18) + " | " + Util.padRight(entry.getKey(), 12) + " | " + entry.getValue() + "\n";
+           }
        }
        return report;
    }
    
-   /*func schedulesPerInstructor(Employee instructor) -> [(String, Int)] {
-       var elements: [(String, Int)] = [];
+   public static Map<String, Integer> schedulesPerInstructor(Employee instructor) {
+	   Map<String, Integer> elements = new HashMap<String, Integer>();
        for (Schedule s : College.getSchedules()) {
            if (s.getClasse().getInstructor().getEmployeeId() == instructor.getEmployeeId()) {
                int count = 1;
-               if (let index = elements.index(where:) {$0.0 == s.getWeekday()})) {
+               /*if (let index = elements.index(where:) {$0.0 == s.getWeekday()})) {
                    let e = elements.remove(at: index);
                    count += e.1;
-               }
-               elements.add((s.getWeekday(), count));
-               
+               }*/
+               elements.put(s.getWeekday(), count);
            }
        }
        return elements;
-   }*/
+   }
    
    
-    //Top student with best average grade by program
-   
+   //Top student with best average grade by program
    public static String studentsByBestAverage() {
-       String report = ""; //Util.pad("Program", 20) + "| " + Util.pad("Student", 20) + "| Best Average Grade\n"
+       String report = Util.padRight("Program", 20) + "| " + Util.padRight("Student", 20) + "| Best Average Grade\n";
        for (Program p : College.getPrograms()) {
-           //var elements = getAverageGradeOfEachSudentInProgram(p).sorted(by:) {$0.1 > $1.1});
-           //report += Util.pad(p.getName(), 20) + "| " + Util.pad(elements[0].0.getName(), 20) + "| \(elements[0].1)\n"
+    	   Map<Student, Integer> elements = new HashMap<Student, Integer>();
+    	   elements = getAverageGradeOfEachSudentInProgram(p);
+    	   //to sort
+           Map<Student, Integer> treeMap = new TreeMap<Student, Integer>(elements);
+    	   //var elements = getAverageGradeOfEachSudentInProgram(p).sorted(by:) {$0.1 > $1.1});
+           for (Map.Entry<Student, Integer> entry : treeMap.entrySet()) {
+        	   report += Util.padRight(p.getName(), 20) + "| " + Util.padRight(entry.getKey().getName(), 20) + "| " + entry.getValue() + "\n";
+        	   //report += Util.padRight(p.getName(), 20) + "| " + Util.padRight(elements[0].0.getName(), 20) + "| " + elements[0].1 + "\n";
+           }
        }
        return report;
    }
 
-   /*func getAverageGradeOfEachSudentInProgram(Program program) -> [(Student, Int)] {
-       var elements: [(Student, Int)] = [];
+   public static Map<Student, Integer> getAverageGradeOfEachSudentInProgram(Program program) {
+       Map<Student, Integer> elements = new HashMap<Student, Integer>();
        for (Student s : College.getStudents()) {
-           var student: Student?
+           Student student = new Student();
            int sum = 0;
            int count = 0;
            for (StudentClass sc : College.getStudentClasses()) {
                if (sc.getClasse().getCourse().getProgram().getProgramId() == program.getProgramId()
                    && sc.getStudent().getStudentId() == s.getStudentId()) {
                    student = s;
-                   if (sc.getGradeAssig() != null && sc.getGradeTest() != null && sc.getGradeProject() != null) {
-                       sum += (sc.getGradeAssig()! + sc.getGradeTest()! + sc.getGradeProject()!) / 3;
+                   if (sc.getGradeAssig() != 0 && sc.getGradeTest() != 0 && sc.getGradeProject() != 0) {
+                       sum += (sc.getGradeAssig() + sc.getGradeTest() + sc.getGradeProject()) / 3;
                        count += 1;
                    }
                    
                }
            }
            if (student != null) {
-               var element = (student!, 0);
+               int value = 0;
                if (count != 0) {
-                   element.1 = sum / count;
+                   value = sum / count;
                }
-               elements.add(element);
+               elements.put(student, value);
            }
        }
        return elements;
-   }*/
+   }
 }

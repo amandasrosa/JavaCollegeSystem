@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+import college.controller.CollegeController;
 import college.model.College;
 import college.model.Employee;
 import college.model.Function;
@@ -59,8 +60,37 @@ public class CollegeSystem {
 	}
 	
 	private static void generateReports() {
-		System.out.println("\nChoose a report:");
-		waitEnter();
+		while (true) {
+			System.out.println("\nChoose a report\n");
+			System.out.println("1: Instructors by classes and average student grades");
+			System.out.println("2: Number of students by country");
+			System.out.println("3: Top 3 courses with worst average grades");
+			System.out.println("4: Number of classes per instructor per weekday");
+			System.out.println("4: Top student with best average grade by program");
+			System.out.println("0: Exit");
+			String option = readInputWithMessage("Please select one option:", "0", "1", "2", "3", "4", "5");
+			switch (option) {
+				case "0":
+					System.out.println("End of program.");
+					System.exit(0);
+					break;
+				case "1":
+					CollegeController.instructorsByClasses();
+					break;
+				case "2":
+					CollegeController.studentsByCountry();
+					break;
+				case "3":
+					CollegeController.coursesByWorstAverage();
+					break;
+				case "4":
+					CollegeController.classesByInscructorsPerWeek();
+					break;
+				case "5":
+					CollegeController.studentsByBestAverage();
+					break;
+			}
+		}
 	}
 	
 	private static void login() {
