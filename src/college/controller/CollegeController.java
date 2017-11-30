@@ -2,9 +2,12 @@ package college.controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.TreeMap;
+import java.util.stream.Collectors;
 
 import college.model.Classe;
 import college.model.College;
@@ -79,12 +82,12 @@ public class CollegeController {
        for (Course c : College.getCourses()) {
            elements.put(c, getAverageGradeOfClassesInCourse(c));
        }
-       //to sort
-       Map<Course, Integer> treeMap = new TreeMap<Course, Integer>(elements);
-       //for (int i : treeMap.values()) {
-           //System.out.println(i);
-       //}
-       //elements = elements.sorted(by:) {$0.1 < $1.1});
+       Map<Course, Integer> treeMap = 
+    		     elements.entrySet().stream()
+    		    .sorted(Entry.comparingByValue())
+    		    .collect(Collectors.toMap(Entry::getKey, Entry::getValue,
+    		                              (e1, e2) -> e1, LinkedHashMap::new));
+       //rodar o for só tres vezes
        for (Map.Entry<Course, Integer> entry : treeMap.entrySet()) {
     	   report += Util.padRight(entry.getKey().getName(), 40) + "| " + entry.getValue() +"\n";
        }
@@ -147,9 +150,12 @@ public class CollegeController {
        for (Program p : College.getPrograms()) {
     	   Map<Student, Integer> elements = new HashMap<Student, Integer>();
     	   elements = getAverageGradeOfEachSudentInProgram(p);
-    	   //to sort
-           Map<Student, Integer> treeMap = new TreeMap<Student, Integer>(elements);
-    	   //var elements = getAverageGradeOfEachSudentInProgram(p).sorted(by:) {$0.1 > $1.1});
+           Map<Student, Integer> treeMap = 
+      		     elements.entrySet().stream()
+      		    .sorted(Entry.comparingByValue())
+      		    .collect(Collectors.toMap(Entry::getKey, Entry::getValue,
+      		                              (e1, e2) -> e1, LinkedHashMap::new));
+           //rodar o for só uma vez
            for (Map.Entry<Student, Integer> entry : treeMap.entrySet()) {
         	   report += Util.padRight(p.getName(), 20) + "| " + Util.padRight(entry.getKey().getName(), 20) + "| " + entry.getValue() + "\n";
         	   //report += Util.padRight(p.getName(), 20) + "| " + Util.padRight(elements[0].0.getName(), 20) + "| " + elements[0].1 + "\n";
