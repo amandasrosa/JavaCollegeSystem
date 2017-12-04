@@ -25,7 +25,7 @@ public class FileHandler {
 		byte[] encoded = null;
 		String path = "";
 		if (getClass().getResource("/files/" + filename + ".json") == null) {
-			System.out.println("Sorry, data cannot be loaded. Please try again later.");
+			System.out.println("File " + filename + ".json is missing. Aborting...");
 			System.exit(0);
 		} else {
 			path = getClass().getResource("/files/" + filename + ".json").getPath();
@@ -47,7 +47,7 @@ public class FileHandler {
 		try {
 			jo = (JsonObject)jsonParser.parse(content);
 		} catch (JsonSyntaxException e) {
-			System.out.println("Sorry, data cannot be loaded. Please try again later.");
+			System.out.println("File " + type + ".json is corrupted. Aborting...");
 			System.exit(0);
 		}
 		return jo.getAsJsonArray(type);

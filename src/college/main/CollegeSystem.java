@@ -6,10 +6,10 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 import college.controller.CollegeController;
-import college.controller.FileHandler;
 import college.model.*;
 
 public class CollegeSystem {
+	private static boolean isSystemLoaded = false;
 	private static Scanner scanner;
 	private static Employee instructor;
 	
@@ -24,6 +24,12 @@ public class CollegeSystem {
 			System.out.println("4: Instructor login");
 			System.out.println("0: Exit");
 			String option = readInputWithMessage("Please select one option:", "0", "1", "2", "3", "4");
+			if (!(option.equals("0") || option.equals("1") ) && !isSystemLoaded) {
+				System.out.println("There is no data in the system. Please load the data files first.");
+				System.out.println("Press <ENTER> to return to main menu.");
+				waitEnter();
+				continue;
+			}
 			switch (option) {
 				case "0":
 					System.out.println("End of program.");
@@ -31,6 +37,7 @@ public class CollegeSystem {
 					break;
 				case "1":
 					loadFiles();
+					isSystemLoaded = true;
 					break;
 				case "2":
 					saveFiles();
@@ -49,7 +56,7 @@ public class CollegeSystem {
 		System.out.println("\nLoading data files...");
 		College college = new College();
 		college.createCollege();
-		System.out.println("\nFiles loaded. Press <ENTER> to return to main menu:");
+		System.out.println("\nFiles loaded. Press <ENTER> to return to main menu.");
 		waitEnter();
 	}
 	
@@ -57,7 +64,7 @@ public class CollegeSystem {
 		System.out.println("\nSaving data files...");
 		College college = new College();
 		college.saveCollege();
-		System.out.println("\nData saved. Press <ENTER> to return to main menu:");
+		System.out.println("\nData saved. Press <ENTER> to return to main menu.");
 		waitEnter();
 	}
 	
@@ -95,7 +102,7 @@ public class CollegeSystem {
 					CollegeController.studentsByBestAverage();
 					break;
 			}
-			System.out.println("Press <ENTER> to return to report menu:");
+			System.out.println("Press <ENTER> to return to report menu.");
 			waitEnter();
 		}
 	}
@@ -109,8 +116,7 @@ public class CollegeSystem {
 				return;
 			}
 			if (College.getEmployees() == null) {
-				System.out.println("There is no data in the system. Please load the data files first.");
-				System.out.println("Press <ENTER> to return to main menu:");
+				System.out.println("There is no data in the system. Press <ENTER> to return to main menu.");
 				waitEnter();
 				return;
 			}
@@ -164,7 +170,7 @@ public class CollegeSystem {
 		System.out.println("Name: " + instructor.getName());
 		System.out.println("Main function: " + instructor.getMainFunction());
 		System.out.println("Start date: " + Util.convertDateToString(instructor.getStartDate()));
-		System.out.println("\nPress <ENTER> to return to instructor menu:");
+		System.out.println("\nPress <ENTER> to return to instructor menu.");
 		waitEnter();
 	}
 
@@ -174,7 +180,7 @@ public class CollegeSystem {
 			List<Classe> classes = CollegeController.getClassesOfInstructor(instructor);
 			if (classes.isEmpty()) {
 				System.out.println("This instructor teaches no classes in the moment.");
-				System.out.println("\nPress <ENTER> to return to instructor menu:");
+				System.out.println("\nPress <ENTER> to return to instructor menu.");
 				waitEnter();
 				return;
 			}
