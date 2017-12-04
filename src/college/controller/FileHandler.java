@@ -13,6 +13,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
 
 import college.model.*;
@@ -22,7 +23,13 @@ public class FileHandler {
 	public String readFile(String filename)
 	{
 		byte[] encoded = null;
-		String path = getClass().getResource("/files/" + filename + ".json").getPath();
+		String path = "";
+		if (getClass().getResource("/files/" + filename + ".json") == null) {
+			System.out.println("Sorry, data cannot be loaded. Please try again later.");
+			System.exit(0);
+		} else {
+			path = getClass().getResource("/files/" + filename + ".json").getPath();
+		}
 		String osAppropriatePath = System.getProperty( "os.name" ).contains( "indow" ) ? path.substring(1) : path;
 		try {
 			encoded = Files.readAllBytes(Paths.get(osAppropriatePath));
@@ -36,7 +43,13 @@ public class FileHandler {
 		String content = readFile(type);
 
 		JsonParser jsonParser = new JsonParser();
-		JsonObject jo = (JsonObject)jsonParser.parse(content);
+		JsonObject jo = new JsonObject();
+		try {
+			jo = (JsonObject)jsonParser.parse(content);
+		} catch (JsonSyntaxException e) {
+			System.out.println("Sorry, data cannot be loaded. Please try again later.");
+			System.exit(0);
+		}
 		return jo.getAsJsonArray(type);
 	}
 
